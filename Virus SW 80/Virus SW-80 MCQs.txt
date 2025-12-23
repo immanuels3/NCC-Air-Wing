@@ -1,0 +1,4552 @@
+“ Virus SW-80 Microlite  Aircraft”   NCC Air Wing
+Multiple Choice Questions.
+Chapter 1 -  Airplane System Description
+Video : 1 - Introduction
+1. What is the power plant used in the Virus SW 80 microlite aircraft?
+a) ROTAX 912 A
+b) ROTAX 914 F
+c) ROTAX  iS
+d) ROT2 ULS
+
+2. What is the undercarriage type of the Virus SW-80 aircraft?
+a) Tailwheel type with a single main wheel
+b) Tricycle type with two main, brake-equipped wheels mounted on a U-piece composite strut
+c) Skid type with no wheel
+d) Floats for water landings
+
+3. What is the primary material used in the construction of the Virus SW 80 microlite aircraft?
+a) Aluminum
+b) Steel
+c) Composite
+d) Wood
+
+4. Which company manufactures the Virus SW 80 microlite aircraft?
+a) Cessna
+b) Pipistrel
+c) Boeing
+d) Airbus
+
+5. What unique feature does the Virus SW 80 aircraft have on its wings?
+a) Spoilers
+b) Flaperons
+c) Winglets
+d) Slats
+
+6. What is the position of the wing in the Virus SW 80 microlite aircraft?
+a) Low wing
+b) Mid wing
+c) High wing
+d) Variable wing
+
+7. What type of safety belts are equipped in the Virus SW 80 aircraft?
+a) V-type
+b) X-type
+c) H-type
+d) Y-type
+
+8. What is the seating capacity of the Virus SW 80 microlite aircraft?
+a) One
+b) Two
+c) Three
+d) Four
+
+9. What type of engine configuration does the Virus SW 80 microlite aircraft have?
+a) Inline
+b) Radial
+c) Horizontally opposed
+d) V-type
+
+10. What type of control levers does the Virus SW 80 aircraft have?
+a) Single main flight control lever
+b) Full dual main flight control levers
+c) Triple main flight control levers
+d) No flight control levers
+
+11.  What is the purpose of the removable seat cushion in the Virus SW 80 aircraft?
+a) For additional comfort
+b) To elevate the seat position for better visibility
+c) For weight reduction
+d) To provide extra storage space
+
+12. What type of navigational aids and avionics equipment is the Virus SW 80 aircraft equipped with?
+a) Basic
+b) Standard
+c) Advanced
+d) Minimal
+
+13. What is the primary use of the Virus SW 80 microlite aircraft?
+a) Commercial passenger transport
+b) Cargo transport
+c) Initial and advanced flight training
+d) Agricultural spraying
+
+14. What type of tail configuration does the Virus SW 80 microlite aircraft have?
+a) Conventional tail
+b) T-tail
+c) V-tail
+d) H-tail
+
+15. Which country is the manufacturer of the Virus SW 80 microlite aircraft located in?
+a) Germany
+b) France
+c) Slovenia
+d) India
+
+16. What is the primary function of the flaperons on the Virus SW 80 aircraft?
+a) To act as both flaps and ailerons
+b) To provide additional lift during takeoff
+c) To reduce drag during flight
+d) To stabilize the aircraft during turbulence
+
+17. Which component of the Virus SW 80's undercarriage is responsible for steering the aircraft on the ground?
+a) Main wheels
+b) Nose wheel
+c) Tail wheel
+d) Wing struts
+
+18. What is the significance of the H-type safety belts in the Virus SW 80 aircraft?
+a) They provide additional comfort for the pilot and passenger
+b) They are attached to the fuselage at three mounting points for enhanced safety
+c) They are designed to be easily removable for maintenance
+d) They are equipped with automatic tensioning systems
+
+19. How does the Virus SW 80 aircraft achieve better visibility for the pilot?
+a) By using a high wing design
+b) By incorporating transparent surfaces made of anti-UV GE tinted Lexan
+c) By providing removable seat cushions that elevate the seat position
+d) By equipping the aircraft with advanced avionics
+
+20. What is the role of the ROTAX 912 A engine in the Virus SW 80 aircraft?
+a) It provides electrical power to the avionics
+b) It powers the aircraft with a 4-cylinder horizontally opposed 4-stroke engine
+c) It controls the flight control surfaces
+d) It manages the aircraft's fuel system
+
+21. What is the role of the ROTAX 912 A engine in the Virus SW 80 aircraft?
+a) It provides electrical power to the avionics
+b) It powers the aircraft with a 4-cylinder horizontally opposed 4-stroke engine
+c) It controls the flight control surfaces
+d) It manages the aircraft's fuel system
+
+22. How is the Virus SW 80 aircraft's undercarriage designed to handle rough terrain?
+a) By using a tailwheel configuration
+b) By incorporating a spring-type shock absorber in the nose wheel
+c) By equipping the main wheels with hydraulic brakes
+d) By using a skid-type undercarriage
+
+23. What is the function of the dual main flight control levers in the Virus SW 80 aircraft?
+a) To provide redundancy in case of a control failure
+b) To allow both the instructor and student to have full control during flight training
+c) To enhance the aircraft's maneuverability
+d) To reduce the pilot's workload during long flights
+
+24. What is the Indian name of the Virus SW-80 aircraft?
+a) Garud
+b) Tejas
+c) Chetak
+d) Dhruv
+
+25. When did India receive its first Virus SW-80 aircraft?
+a) August 2015
+b) August 2016
+c) August 2017
+d) August 2018
+Video  :  2 – Airframe Systems
+1. What is the primary material used in the construction of the Virus SW-80 aircraft?
+a) Aluminum
+b) Steel
+c) Composite materials
+d) Wood
+
+2. What is the purpose of the firewall reinforcement in the Virus SW-80 aircraft?
+a) To provide additional structural strength
+b) To reduce heat and noise
+c) To imprve aerodynamics
+d) To enhance visibility
+
+3. Which of the following materials is NOT used in the composite parts of the Virus SW-80 aircraft?
+a) Glass
+b) Carbon foam
+c) Kevlar
+d) Titanium
+
+4. Which of the following materials is NOT used in the composite parts of the Virus SW-80 aircraft?
+a) Glass
+b) Carbon foam
+c) Kevlar
+d) Titanium
+
+5. How are the composite parts of the Virus SW-80 aircraft made?
+a) By welding
+b) By riveting
+c) In moulds
+d) By casting
+
+6. Which metal parts are used in the Virus SW-80 aircraft?
+a) Tubes, sheet metal, rods, cable bolts, and nuts
+b) Only aluminum sheets
+c) Only steel rods
+d) Only titanium bolts
+
+Video : 3 - Cockpit
+1. What material are the cockpit windshields, doors, and overhead windows of the Virus SW-80 aircraft made of?
+a) Polycarbonate
+b) 2mm anti-UV GE tinted Lexan
+c) Acrylic
+d) Tempered glass
+
+2.How is cabin ventilation achieved in the Virus SW-80 aircraft?
+a) Through air conditioning vents
+b) Through special vents provided on doors
+c) Through open windows
+d) Through ceiling vents
+
+3. What is the source of cabin heating and windshield defrost/demist in the Virus SW-80 aircraft?
+a) Electric heaters
+b) Hot air from the engine
+c) Solar panels
+d) Battery-powered heaters
+
+4. How many fixed seats does the cabin of the Virus SW-80 aircraft accommodate?
+a) One
+b) Two
+c) Three
+d) Four
+
+5. What type of safety harness is used in the Virus SW-80 aircraft?
+a) V-type
+b) X-type
+c) H-type
+d) Y-type
+
+6. How are the seat cushions in the Virus SW-80 aircraft designed to enhance comfort?
+a) They are made of memory foam
+b) They are removable to elevate seating height
+c) They are heated
+d) They are adjustable for lumbar support
+
+7. What feature is provided for leg length adjustment in the Virus SW-80 aircraft?
+a) Adjustable seat position
+b) Adjustable rudder pedals
+c) Adjustable footrests
+d) Adjustable armrests
+
+Video :  4 - Cockpit (contd.)
+Question no 1. Where are all engine and flight control operating levers located in the Virus SW-80 aircraft?
+a) In the cockpit.
+b) In the tail section.
+c) On the wings.
+d) In the undercarriage.
+
+Question no 2. How are the main undercarriage brakes controlled in the Virus SW-80 aircraft?
+a) Mechanically.
+b) Hydraulically.
+c) Electrically.
+d) Pneumatically.
+
+Question no 3. What type of mechanism is used for the elevator trim in the Virus SW-80 aircraft?
+a) Hydraulic mechanism.
+b) Electrical mechanism driving a spring mechanism.
+c) Mechanical lever.
+d) Pneumatic system.
+
+Question no 4. Where is the parachute and rocket system installed in the Virus SW-80 aircraft?
+a) In the nose section.
+b) Behind the right seat.
+c) Under the wings.
+d) In the tail section.
+
+Question no 5. Where is the activation handle for the emergency parachute and rocket system located in the Virus SW-80 aircraft?
+a) On the instrument panel.
+b) Overhead between both pilots.
+c) On the left side of the cockpit.
+d) Under the pilot's seat.
+
+Question no 6. What is the purpose of the elevator trim in the Virus SW-80 aircraft?
+a) To increase stick loads.
+b) To reduce stick loads.
+c) To adjust the rudder position.
+d) To control the ailerons.
+
+Question no 7. How is the elevator trim controlled in the Virus SW-80 aircraft?
+a) Through a hydraulic system.
+b) Through a common switch.
+c) Through a mechanical lever.
+d) Through a pneumatic system.
+
+Video  :  5 - Undercarriage
+Question no 1. What type of undercarriage does the Virus SW-80 aircraft have?
+a) robust Tailwheel type.
+b) robust Tricycle type.
+c) Skid type.
+d) Floats for water landings.
+
+Question no  2. What material is the main undercarriage strut made of in the Virus SW-80 aircraft?
+a) Aluminum
+b) Steel
+c) Composite
+d) Titanium
+
+Question no 3. How are the main undercarriage brakes operated in the Virus SW-80 aircraft?
+a) Mechanically
+b) Hydraulically
+c) Electrically
+d) Pneumatically
+
+Question no  4. What type of shock absorber is used in the nose undercarriage of the Virus SW-80 aircraft?
+a) Hydraulic shock absorber
+b) Pneumatic shock absorber
+c) Spring type shock absorber
+d) Rubber shock absorber
+
+Question no 5. How is the nose wheel steered in the Virus SW-80 aircraft?
+a) Through a joystick
+b) Through rudder pedals
+c) Through a steering wheel
+d) Through a control stick
+
+Question no 6. What type of tyres are used on all wheels of the Virus SW-80 aircraft?
+a) Tubeless tyres
+b) Tube type tyres
+c) Solid rubber tyres
+d) Pneumatic tyres
+
+Question no 7. How are the wheel brakes actuated in the Virus SW-80 aircraft?
+a) By pressing a foot pedal
+b) By pulling on the common handbrake lever
+c) By turning a knob
+d) By pushing a button
+
+Question no 8. Where is the handbrake lever located in the Virus SW-80 aircraft?
+a) On the instrument panel
+b) On the left side of the cockpit
+c) On the central column in the cockpit
+d) Under the pilot's seat
+
+Question no 9. How is the parking brake function achieved in the Virus SW-80 aircraft?
+a) By using a lock latch on the handbrake lever
+b) By pressing a foot pedal
+c) By turning a knob
+d) By pushing a button
+
+Question no 10.  Which wheel does not have a braking function in the Virus SW-80 aircraft?
+a) Left main wheel.
+b) Right main wheel.
+c) Nose wheel.
+d) All wheels have braking functions.
+
+Question no 11.  What type of brakes are used in the Virus SW-80 aircraft?
+a) Drum brakes.
+b) Disc brakes.
+c) Mechanical brakes.
+d) Pneumatic brakes.
+
+Question no 12. How is the nose wheel of the Virus SW-80 aircraft connected and steered?
+a) Connected by rods and steered through a joystick.
+b) Connected by cables and steered through rudder pedals.
+c) Connected by hydraulic lines and steered through a steering wheel.
+d) Connected by mechanical linkages and steered through a control stick.
+
+Question no 13. What grade of hydraulic oil is used in the brake system of the Virus SW-80 aircraft?
+a) MIL-H-5606.
+b) MIL-H-83282.
+c) MIL-H-87257.
+d) MIL-H-46170.
+
+Video :  6 - Flight Control System
+Question no 1. What type of control surfaces are featured in the Virus SW 80 aircraft?
+a) Ailerons, elevators, and rudder.
+b) Flaperons, elevators, and rudder.
+c) Spoilers, elevators, and rudder.
+d) Flaps, elevators, and rudder.
+
+Question no 2. What makes the Virus SW 80 aircraft ideal for basic and advanced flight training?
+a) Single main flight control lever.
+b) Full dual main flight control levers.
+c) Automated flight control system.
+d) Advanced autopilot system.
+
+Question no 3. How are the flight controls (flaps, ailerons, and elevators) connected to the cabin controls in the Virus SW 80 aircraft?
+a) Using hydraulic lines.
+b) Using self-fitting push-pull tubes.
+c) Using electrical wires.
+d) Using mechanical linkages.
+
+Question no 4. How is the rudder controlled in the Virus SW 80 aircraft?
+a) Via hydraulic lines connected to pedals.
+b) Via cables connected to pedals.
+c) Via electrical wires connected to pedals.
+d) Via mechanical linkages connected to pedals.
+
+Question no 5. What type of mechanism is used for the elevator trim in the Virus SW 80 aircraft?
+a) Hydraulic mechanism.
+b) Electro-mechanical mechanism driving a spring mechanism.
+c) Mechanical lever.
+d) Pneumatic system.
+
+Question no 6. Where are the flaperons installed in the Virus SW 80 aircraft?
+a) At the leading edge of each wing.
+b) At the trailing edge of each wing.
+c) On the fuselage.
+d) On the tail section.
+
+Question no 7. How is the aileron movement of the flaperon controlled in the Virus SW 80 aircraft?
+a) By a flap lever located between both seats.
+b) By lateral movement of the dual flight control stick.
+c) By a joystick.
+d) By a control wheel.
+
+Question no 8. What are the three position settings for the flaps in the Virus SW 80 aircraft?
+a) Position 0 (fully retracted), Position 1 (10 degrees extended), Position 2 (20 degrees extended).
+b) Position 0 (fully retracted), Position 1 (15 degrees extended), Position 2 (25 degrees extended).
+c) Position 0 (fully retracted), Position 1 (20 degrees extended), Position 2 (30 degrees extended).
+d) Position 0 (fully retracted), Position 1 (5 degrees extended), Position 2 (15 degrees extended).
+
+Question no 9. What is the purpose of the flap lever located between both seats in the Virus SW 80 aircraft?
+a) To control the elevator trim.
+b) To facilitate the movement of flaps.
+c) To control the rudder.
+d) To adjust the ailerons.
+
+Question number 10. What is the function of the dual flight control stick in the Virus SW 80 aircraft?
+a) To control the rudder.
+b) To control the elevator trim.
+c) To control the aileron movement of the flaperon.
+d) To control the flap settings.
+
+Question number 11. How is the elevator trim controlled in the Virus SW 80 aircraft?
+a) Through individual switches for each pilot.
+b) Through a common cockpit switch available to both pilots.
+c) Through a joystick.
+d) Through a control wheel.
+
+Question no 12. How many different control levels are used for flaps and ailerons in the Virus SW 80 aircraft?
+a) One.
+b) Two.
+c) Three.
+d) Four.
+
+Question no 13. What is the purpose of having two different control levels for flaps and ailerons in the Virus SW 80 aircraft?
+a) To simplify the control system.
+b) To provide independent control for flaps and ailerons.
+c) To reduce the weight of the aircraft.
+d) To enhance the aerodynamic performance.
+
+Video : 7 - Parachute Rescue System
+Question number 1. What is the purpose of the rocket engine in the PRS?
+A) To increase the aircraft's speed.
+B) To deploy the parachute quickly.
+C) To provide additional lift.
+D) To stabilize the aircraft.
+
+Question number 2. Where is the parachute placed within the PRS?
+A) Inside the cockpit.
+B) Inside a deployment bag within the cylinder.
+C) Under the pilot's seat.
+D) In the left wing.
+
+Question number 3. What secures the activation handle to prevent accidental deployment?
+A) A lock.
+B) A safety pin.
+C) A password.
+D) A biometric scanner.
+
+Question number 4. How long does it take for the main canopy to open after pulling the activation handle?
+A) 1.5 seconds.
+B) 2.0 seconds.
+C) 3.2 seconds.
+D) 4.5 seconds.
+
+Question number 5. What is the location of the PRS cylinder in the Pipistrel Virus SW 80?
+A) Under the pilot's seat.
+B) On the left wing.
+C) On the right-hand side of the baggage compartment.
+D) In the engine compartment.
+
+Question number 6. How often should the parachute in the Pipistrel Virus SW 80's Parachute Rescue System be repacked?
+A) Every 2 years.
+B) Every 4 years.
+C) Every 6 years.
+D) Every 8 years.
+
+Question number 7. What is the minimum height required for the activation of the Parachute Rescue System (PRS) in the Pipistrel Virus SW 80?
+A) 100 feet.
+B) 200 feet.
+C) 300 feet.
+D) 400 feet.
+
+Question number 8. What is the minimum force required for the activation of the Parachute Rescue System (PRS) handle in the Pipistrel Virus SW 80?
+A) 10 pounds.
+B) 20 pounds.
+C) 30 pounds.
+D) 40 pounds.
+
+Question number 9. What happens immediately after the activation handle is pulled in the PRS?
+A) The aircraft's speed increases.
+B) The main canopy opens.
+C) The engine shuts down.
+D) The landing gear deploys.
+
+Question number 10. Where is the rocket engine located in the PRS?
+A) Above the parachute.
+B) Underneath the parachute.
+C) Inside the cockpit.
+D) In the left wing.
+
+Question number 11. What is the function of the safety pin in the PRS?
+A) To secure the parachute.
+B) To prevent accidental activation.
+C) To lock the baggage compartment.
+D) To stabilize the aircraft.
+
+Video : 8 - Fire Extinguisher
+Question number 1. What type of fires is the AFFF fire extinguisher designed to extinguish?
+A) Electrical fires.
+B) Hydrocarbon and polar solvent fires.
+C) Metal fires.
+D) Wood and paper fires.
+
+Question number 2. What is the primary function of the fluorinated and hydrocarbon surfactants in the AFFF fire extinguisher?
+A) To increase the viscosity of the foam.
+B) To form an aqueous film on the surface of hydrocarbon fuels.
+C) To enhance the color of the foam.
+D) To reduce the weight of the extinguisher.
+
+Question number 3. What does the aqueous film formed by the AFFF fire extinguisher do?
+A) Increases the temperature of the fuel.
+B) Reduces vapor leaks and prevents contact with oxygen.
+C) Enhances the flammability of the fuel.
+D) Increases the spread of the fire.
+
+Question number 4. What is a notable characteristic of AFFF as a synthetic foam?
+A) High viscosity.
+B) Low viscosity and rapid spreading across hydrocarbon fuels.
+C) High density.
+D) Slow spreading across hydrocarbon fuels.
+
+Question number 5. What forms beneath the foam when AFFF is used on a fire?
+A) An oil layer.
+B) A water film.
+C) A gas layer.
+D) A solid barrier.
+
+Question number 6. What is the name of the compound used in the fire extinguisher?
+A) Aqueous Film Forming Foam (AFFF).
+B) Dry Chemical Powder (DCP).
+C) Carbon Dioxide (CO2).
+D) Halon.
+
+Question number 7. What cools the liquid fuel and stops the formation of flammable vapors when using AFFF?
+A) Oil film.
+B) Gas layer.
+C) Water film.
+D) Solid barrier.
+
+Video  :  9 - Propeller
+Question number 1. What is the design of the propeller described?
+A) Three blade variable pitch.
+B) Two blade fixed pitch.
+C) Four blade adjustable pitch.
+D) Single blade fixed pitch.
+
+Question number 2.  What is the diameter of the propeller?
+A) 1200mm.
+B) 1450mm.
+C) 1650mm.
+D) 1800mm.
+
+Question number 3. How is the propeller drive achieved?
+A) Through the engine directly.
+B) From the central cam shaft through an integrated reduction gear box.
+C) Via a belt drive system.
+D) Using a hydraulic system.
+
+Question number 4. What additional components are integrated into the reduction gear box?
+A) Hydraulic pump and cooling system.
+B) Mechanical shock absorber and overload clutch.
+C) Electrical generator and battery.
+D) Fuel pump and filter.
+
+Question number 5. What is the reduction ratio provided by the gear box?
+A) 1 : 1.5
+B) 1 : 2.27
+C) 1 : 3.0
+D) 1 : 4.5
+
+Video : 10 - Power Plant
+Question number 1. What are the cooling features of the Virus SW-80 AC's power plant?
+A) Ram Air Cooled Cylinders, Liquid (Water) Cooled Cylinder Heads, and Oil Cooled moving parts.
+B) Air Cooled Cylinders, Liquid (Water) Cooled Cylinder Heads, and Oil Cooled moving parts.
+C) Ram Air Cooled Cylinders, Air Cooled Cylinder Heads, and Oil Cooled moving parts.
+D) Air Cooled Cylinders, Air Cooled Cylinder Heads, and Oil Cooled moving parts.
+
+Question number 2. Which of the following is NOT a feature of the Rotax 912 A engine?
+A) Dual Breakerless Capacitor Discharge Ignition (CDI).
+B) Single carburetor.
+C) Mechanical Fuel Pump.
+D) Integrated AC Generator with External Rectifier Regulator.
+
+Question number 3. What is the maximum RPM for the Rotax 912 A engine?
+A) 5000 RPM.
+B) 5500 RPM.
+C) 5800 RPM.
+D) 6000 RPM.
+
+Question number 4. What type of propeller drive does the Virus SW 80 aircraft use?
+A) Direct drive.
+B) Belt drive.
+C) Gearbox with Integrated Mechanical Shock Absorber and Overload Clutch.
+D) Chain drive.
+
+Question number 5. Which component is responsible for cooling the engine oil in the Rotax 912 A engine?
+A) Cooling fan.
+B) Radiator.
+C) Air intake.
+D) Water pump.
+
+Question number 6. What type of ignition system is used in the Rotax 912 A engine?
+A) Single spark ignition.
+B) Dual electronic spark ignition.
+C) Magneto ignition.
+D) Distributor ignition.
+
+Question number 7. Where are the cooling air intakes located on the Virus SW 80 aircraft?
+A) On the top part of the engine cover.
+B) On the sides of the fuselage.
+C) On the bottom part of the engine cover.
+D) On the wings.
+
+Question number 8. What is the function of the Integrated Mechanical Shock Absorber in the propeller drive system?
+A) To reduce engine noise.
+B) To absorb vibrations and shocks.
+C) To increase propeller speed.
+D) To cool the propeller.
+
+Question number 9. What type of lubrication system does the Rotax 912 A engine use?
+A) Wet sump lubrication.
+B) Dry sump forced lubrication.
+C) Splash lubrication.
+D) Pressure lubrication.
+
+Question number 10. The Virus SW-80 AC is powered by which engine?
+A) Rotax 912 A (80 HP) four-stroke, four-cylinder, horizontally opposed, twin carbureted, spark ignition (dual electronic), single central camshaft engine.
+B) Rotax 914 F (115 HP) four-stroke, four-cylinder, horizontally opposed, twin carbureted, spark ignition (dual electronic), single central camshaft engine.
+C) Rotax 912 ULS (100 HP) four-stroke, four-cylinder, horizontally opposed, twin carbureted, spark ignition (dual electronic), single central camshaft engine.
+D) Rotax 915 iS (141 HP) four-stroke, four-cylinder, horizontally opposed, twin carbureted, spark ignition (dual electronic), single central camshaft engine.
+
+Question number 11. What is the Virus SW-80 AC's engine dependent on for cooling?
+A) A cooling fan.
+B) Moving air or airspeed.
+C) Water pump.
+D) Radiator.
+
+Question number 12. How is the engine oil cooled while the Virus SW-80 AC's engine is running?
+A) By a cooling fan.
+B) By a water pump.
+C) By being passed through a radiator.
+D) By air intake.
+
+Question number 13. What type of starter is used in the Virus SW-80 AC's engine?
+A) Manual Starter.
+B) Electric Starter.
+C) Hydraulic Starter.
+D) Pneumatic Starter.
+
+Question number 14. What type of generator is integrated into the Virus SW-80 AC's engine?
+A) DC Generator with Internal Rectifier Regulator.
+B) AC Generator with External Rectifier Regulator.
+C) AC Generator with Internal Rectifier Regulator.
+D) DC Generator with External Rectifier Regulator.
+
+Question number 15. What type of fuel pump is used in the Virus SW-80 AC's engine?
+A) Electric Fuel Pump.
+B) Mechanical Fuel Pump.
+C) Manual Fuel Pump.
+D) Hydraulic Fuel Pump.
+
+Question number 16. How many carburetors does the Virus SW-80 AC's engine have?
+A) One.
+B) Two.
+C) Three.
+D) Four.
+
+Question number 17. What kind of carburetor is used in the Virus SW-80 AC's engine?
+A) Constant Velocity Carburetors.
+B) Constant Depression Carburetors.
+C) Fixed Jet Carburetors.
+D) Variable Jet Carburetors.
+
+Question number 18. How is the Virus SW-80 AC's engine lubricated?
+A) With an external oil pump.
+B) With a central oil pump.
+C) With a manual oil pump.
+D) With a hydraulic oil pump.
+
+Video :  11 - Fuel System
+Question number 1. Where is the refueling aperture located on the aircraft?
+A) Top right side of the fuselage.
+B) Top left side of the fuselage.
+C) Bottom left side of the fuselage.
+D) Bottom right side of the fuselage.
+
+Question number 2. What material is used to protect the fuel hoses?
+A) Glass and silicon rubber.
+B) Plastic and rubber.
+C) Metal and plastic.
+D) Kevlar and carbon fiber.
+
+Question number 3. How is the rate of fuel flow calculated?
+A) From RPM and MAP (Manifold Pressure) measurements.
+B) From fuel tank pressure.
+C) From fuel temperature.
+D) From fuel quantity.
+
+Question number 4. What is the purpose of the gascolator in the fuel system?
+A) To filter fuel.
+B) To drain water and particles.
+C) To measure fuel flow.
+D) To regulate fuel pressure.
+
+Question number 5. Where is the optional electric fuel pump usually fitted?
+A) Between the fuel tank and coarse filter.
+B) Between the safety cock and water drain cock.
+C) Between the fine filter and mechanical fuel pump.
+D) Between the carburetors and fuel tank.
+
+Question number 6. What type of fuel quantity indication system is used?
+A) Mechanical gauge.
+B) Electric gauge style.
+C) Digital display.
+D) Analog meter.
+
+Question number 7. What is the principle of fuel quantity indication?
+A) Pressure sensor.
+B) Float with position detection.
+C) Ultrasonic sensor.
+D) Optical sensor.
+
+Question number 8. What is the function of the fuel shutoff valve?
+A) To regulate fuel pressure.
+B) To stop fuel flow in emergencies.
+C) To measure fuel quantity.
+D) To filter fuel.
+
+Question number 9. Where is the gascolator located?
+A) Inside the fuel tank.
+B) Below the bottom engine cowling.
+C) Next to the fuel pump.
+D) Near the carburetors.
+
+Question number 10. What is the function of the coarse filter in the fuel system?
+A) To measure fuel flow.
+B) To filter large particles from the fuel.
+C) To regulate fuel pressure.
+D) To control fuel quantity.
+
+Question number 11. What is the fuel tank capacity in the VIRUS SW-80 AC?
+A) 40 liters.
+B) 45 liters.
+C) 50 liters.
+D) 55 liters.
+
+Question number 12. What is the usable fuel capacity in the VIRUS SW-80 AC?
+A) 45 liters.
+B) 46 liters.
+C) 47 liters.
+D) 48 liters.
+
+Question number 13. Where is the fuel tank located in the VIRUS SW-80 AC?
+A) Inside the wing.
+B) Inside the fuselage.
+C) Under the cockpit.
+D) In the tail section.
+
+Question number 14. Where is the fuel shutoff valve located in the VIRUS SW-80 AC?
+A) Inside the wing.
+B) Inside the fuselage.
+C) Inside the cockpit.
+D) In the tail section.
+
+Question number 15. How is the draining of water/particles achieved in the VIRUS SW-80 AC fuel system?
+A) Through a coarse filter.
+B) Through a fine filter.
+C) Through the gascolator.
+D) Through the fuel pump.
+
+Question number 16. The fuel tank is located outside the fuselage.
+A) True.
+B) False.
+
+Question number 17. The fuel system features an electric gauge style fuel quantity indication.
+A) True.
+B) False.
+
+Question number 18. The fuel shutoff valve is located outside the cockpit.
+A) True.
+B) False.
+
+Question number 19. The fuel system does not have a fuel return circuit.
+A) True.
+B) False.
+
+Question number 20. The mechanical fuel pump is located after the fine filter in the fuel flow sequence.
+A) True.
+B) False.
+
+Video : 12 - Cooling System
+Question number 1. How is the cooling system designed in the VIRUS SW-80 AC?
+
+A) Liquid cooling of cylinder heads and ram air cooling of cylinders.
+
+B) Air cooling of cylinder heads and liquid cooling of cylinders.
+
+C) Only liquid cooling of the entire engine.
+
+D) Only air cooling of the entire engine.
+
+Question number 2. What forces the coolant flow for cooling cylinder heads?
+A) Electric water pump.
+B) Engine/cam shaft driven water pump.
+C) Manual pump.
+D) Gravity.
+
+Question number 3. What is the engine's cooling system dependent on, given it does not have a cooling fan?
+A) Electric fans.
+B) Ram/moving air and air speed.
+C) Water cooling.
+D) Oil cooling.
+
+Question number 4. What is the significance of ram air cooling in the VIRUS SW-80 AC?
+A) It provides additional cooling for the cylinders.
+B) It reduces the need for a cooling fan.
+C) It enhances the efficiency of the cooling system.
+D) All of the above.
+
+Question number 5. What happens if the air speed is insufficient for cooling the engine?
+A) The engine may overheat.
+B) The engine will shut down automatically.
+C) The cooling system will switch to electric fans.
+D) The coolant will evaporate.
+
+Question number 6. What is the role of the water pump in the cooling system?
+A) To circulate coolant from the radiator to the cylinder heads.
+B) To pump fuel to the engine.
+C) To circulate oil for lubrication.
+D) To provide air for combustion.
+
+Question number 7. Why does the engine not comprise a cooling fan?
+A) It relies entirely on ram/moving air and air speed.
+B) It uses an electric cooling system.
+C) It has an advanced liquid cooling system.
+D) It does not require cooling.
+
+Question number 8. What is the primary method of cooling for the engine in the VIRUS SW-80 AC?
+A) Liquid cooling.
+B) Air cooling.
+C) Oil cooling.
+D) Hybrid cooling.
+
+Question number 9. Where does the coolant flow from and to for cooling the cylinder heads?
+A) From the radiator to the cylinder heads.
+B) From the fuel tank to the cylinder heads.
+C) From the oil tank to the cylinder heads.
+D) From the air intake to the cylinder heads.
+
+Question number 10. What drives the water pump for cooling the cylinder heads?
+A) Electric motor.
+B) Engine/cam shaft.
+C) Manual pump.
+D) Gravity.
+
+Question number 11. What drives the engine oil pump in the VIRUS SW-80 AC?
+A) Electric motor.
+B) Engine/cam shaft.
+C) Manual pump.
+D) Gravity.
+
+Question number 12. How is hot oil after lubricating the engine cooled in the VIRUS SW-80 AC?
+A) Air cooling.
+B) Water cooling.
+C) Oil cooler.
+D) Radiator.
+
+Video : 13 -  Lubrication System
+Question number 1. What type of lubrication system is used in the Virus SW 80 engine?
+a) Wet sump lubrication.
+b) Dry sump forced lubrication.
+c) Splash lubrication.
+d) Mist lubrication.
+
+Question number 2. What drives the oil pump in the Virus SW 80 engine?
+a) Crankshaft.
+b) Camshaft. 
+c) Timing belt.
+d) Flywheel.
+
+Question number 3. Where does the oil go after being forced through the oil filter?
+a) Back to the oil tank.
+b) To the oil cooler.
+c) To individual lubrication points.
+d) To the crankcase.
+
+Question number 4. How is surplus oil returned to the oil tank?
+a) By a secondary pump.
+b) By gravity.
+c) By blow-by gases.
+d) By a siphon system.
+
+Question number 5. What happens to the oil after it lubricates the engine?
+a) It is discarded. 
+b) It is cooled by passing through a radiator. 
+c) It is mixed with fuel. 
+d) It evaporates.
+
+Video : 14,15,16 - Electrical System
+Question number 1. What type of switches are used for the magnetos in the Virus SW 80 aircraft?
+a) Rocker switches.
+b) Toggle switches.
+c) Push-button switches.
+d) Slide switches.
+
+Question number 2. What is the function of the Master switch in the Virus SW 80 aircraft?
+a) To control the avionics system.
+b) To control individual electric loads.
+c) To provide overall power control.
+d) To control the lighting system.
+
+Question number 3. How are individual electric loads controlled in the Virus SW 80 aircraft?
+a) By a single master switch.
+b) By individual fused rocker switches.
+c) By a central control panel.
+d) By the avionics switch.
+
+Question number 4. What type of lighting is provided for the cockpit in the Virus SW 80 aircraft?
+a) Overhead fluorescent lights.
+b) Internal gooseneck cockpit lighting.
+c) LED strip lights.
+d) Halogen spotlights.
+
+Question number 5. What additional feature do the instruments in the Virus SW 80 aircraft have?
+a) Touchscreen displays.
+b) Backlit instruments with day/night visible displays.
+c) Voice-activated controls.
+d) Digital readouts only.
+
+Question number 6. What is the weight of the battery in the Virus SW 80 aircraft?
+a) 1.2 Kg.
+b) 1.62 Kg.
+c) 2.0 Kg.
+d) 2.5 Kg.
+
+Question number 7.  What principle is the battery in the Virus SW 80 aircraft based on?
+a) Lithium-ion.
+b) Nickel-cadmium.
+c) Lithium Phosphate.
+d) Lead-acid.
+
+Question number 8. What type of housing is used for the battery in the Virus SW 80 aircraft?
+a) Metal.
+b) Glass.
+c) ABS (Acrylonitrile Butadiene Styrene) plastic.
+d) Ceramic.
+
+Question number 9. What is the operating temperature range of the battery in the Virus SW 80 aircraft?
+a) -20°C to +50°C.
+b) -30°C to +60°C.
+c) -10°C to +40°C.
+d) -40°C to +70°C.
+
+Question number 10. What is the maximum operating altitude of the battery in the Virus SW 80 aircraft?
+a) 3000 metres.
+b) 4000 metres.
+c) 5000 metres.
+d) 6000 metres.
+
+Question number 11. What type of compatibility does the battery in the Virus SW 80 aircraft have?
+a) Thermal compatibility.
+b) Electromagnetic compatibility.
+c) Chemical compatibility.
+d) Mechanical compatibility.
+
+Question number 12.  What type of control does the battery in the Virus SW 80 aircraft have?
+a) Manual overload control.
+b) Integrated electronic overload control.
+c) Mechanical overload control.
+d) Hydraulic overload control.
+
+Question number 13. What system is integrated into the battery for balance in the Virus SW 80 aircraft?
+a) Power Management System (PMS).
+b) Battery Management System (BMS).
+c) Thermal Management System (TMS).
+d) Voltage Management System (VMS).
+
+Question number 14. What type of battery is used in the Virus SW 80 aircraft?
+a) Wet battery.
+b) Dry battery.
+c) Gel battery.
+d) Lead-acid battery.
+
+Question number 15. What is the voltage of the circuit provided by the engine-driven electric alternator in the Virus SW 80 aircraft?
+a) 6 Volt.
+b) 12 Volt.
+c) 24 Volt.
+d) 48 Volt.
+
+Question number 16. What is the capacity of the battery in the Virus SW 80 aircraft?
+a) 5 AH.
+b) 10 AH.
+c) 15 AH.
+d) 20 AH.
+
+Question number 17. What is the power output of the alternator at maximum engine RPM in the Virus SW 80 aircraft?
+a) 100 Watt.
+b) 150 Watt.
+c) 200 Watt.
+d) 250 Watt.
+
+Question number 18. How is the AC from the alternator provided to the 12 Volt Busbar in the Virus SW 80 aircraft?
+a) Through a Transformer.
+b) Through a Regulator Rectifier.
+c) Through a Converter.
+d) Through a Battery Charger.
+
+Question number 19. What does the Regulator Rectifier cater for in the Virus SW 80 aircraft?
+a) Only electric loads.
+b) Only charging the battery.
+c) Both electric loads and charging the battery.
+d) Neither electric loads nor charging the battery.
+
+Question number 20. Which component is supplied through the Master switch and Fuel CB in the Virus SW 80 aircraft?
+a) Electric starter.
+b) Electric Fuel Boost pump.
+c) External lighting.
+d) Navigation GPS.
+
+Question number 21. What type of lighting is included in the electrical system of the Virus SW 80 aircraft?
+a) Only external lighting.
+b) Only internal lighting.
+c) Both external and internal lighting.
+d) No lighting.
+
+Question number 22. Which system is used for navigation in the Virus SW 80 aircraft?
+a) Garmin Aero 500.
+b) TomTom Navigator.
+c) Magellan GPS.
+d) Google Maps.
+
+Question number 23. What display is part of the Engine Management Systems in the Virus SW 80 aircraft?
+a) Digital Display.
+b) Quadrant Display.
+c) Analog Display.
+d) Touchscreen Display.
+
+Question number 24. Which of the following is NOT a load supplied by the electrical system in the Virus SW 80 aircraft?
+a) Electric Fuel Boost pump.
+b) Electric starter.
+c) External & internal lighting.
+d) Hydraulic pump.
+
+Video : 17 - Instrument Panel
+Question number 1. Which of the following is NOT an analogue indicator on the Virus SW 80 instrument panel?
+A) Altitude.
+B) Slip & Trim.
+C) GPS.
+D) Airspeed.
+
+Question number 2. What type of gauge is the tachometer on the Virus SW 80?
+A) Analogue.
+B) Digital.
+C) Hybrid (Analogue & Digital).
+D) None of the above.
+
+Question number 3. Which component on the Virus SW 80 electrical panel mechanically disables the complete electrical system?
+A) Starter Button.
+B) Fuel Pump Circuit Breaker (CB).
+C) Battery Disconnect Ring.
+D) Cabin Light Lever.
+
+Question number 4. Which of the following is a digital indicator on the Virus SW 80 instrument panel?
+A) Altitude.
+B) Slip & Trim.
+C) Engine Instrument Cluster.
+D) Airspeed.
+
+Question number 5. What is the function of the Fail Light Rocker Switches on the Virus SW 80 electrical panel?
+A) To start the engine.
+B) To control the fuel pump.
+C) To manage the master, avionics, and magnetos.
+D) To disconnect the battery.
+
+Question number 6. Which of the following is a hybrid gauge on the Virus SW 80 instrument panel?
+A) Altitude.
+B) Slip & Trim.
+C) Airspeed.
+D) GPS.
+
+Question number 7. What type of indicator is the engine instrument cluster on the Virus SW 80?
+A) Analogue.
+B) Digital.
+C) Hybrid (Analogue & Digital).
+D) None of the above.
+
+Question number 8. Which component on the Virus SW 80 electrical panel is used to start the engine?
+A) Fuel Pump Circuit Breaker (CB).
+B) Starter Button.
+C) Battery Disconnect Ring.
+D) Cabin Light Lever.
+
+
+Question number 9. Which of the following is NOT a function of the Fail Light Rocker Switches on the Virus SW 80 electrical panel?
+A) Master.
+B) Avionics.
+C) Magnetos.
+D) Fuel Pump.
+
+
+Question number 10. What does the cabin light lever control on the Virus SW 80 electrical panel?
+A) The engine start process.
+B) The fuel pump.
+C) The cabin lighting.
+D) The battery disconnect.
+
+Question number 11. Which of the following is a digital indicator on the Virus SW 80 instrument panel?
+A) Altitude.
+B) Slip & Trim.
+C) Radio.
+D) Airspeed.
+
+Question number 12. What is the purpose of the 12 Volt socket on the Virus SW 80 electrical panel?
+A) To start the engine.
+B) To power external devices.
+C) To control the fuel pump.
+D) To disconnect the battery.
+
+Video : 18  - Instrument/Communication/Navigation Systems
+Questions number 1. Which of the following is NOT a gauge type used for airspeed indication on the Virus SW 80?
+A) Digital.
+B) Analogue.
+C) Hybrid.
+D) None of the above.
+
+Questions number 2. Which parameter is NOT displayed on the Right Hand Quadrant Display (Engine Cluster) system of the Virus SW 80?
+A) Manifold Pressure.
+B) Altitude.
+C) Exhaust Gas Temperature (EGT).
+D) Coolant Temperature.
+
+Questions number 3.  Which parameter is NOT displayed on the Right Hand Quadrant Display (Engine Cluster) system of the Virus SW 80?
+A) Manifold Pressure.
+B) Altitude.
+C) Exhaust Gas Temperature (EGT).
+D) Coolant Temperature.
+
+Questions number 4.  Which of the following engine parameters is displayed on the Right Hand Quadrant Display (Engine Cluster) system?
+A) Airspeed.
+B) Oil Temperature.
+C) Slip & Trim.
+D) Altitude.
+
+Questions number 5. Which of the following engine parameters is displayed on the Right Hand Quadrant Display (Engine Cluster) system?
+A) Airspeed.
+B) Oil Temperature.
+C) Slip & Trim.
+D) Altitude.
+
+Questions number 6. Which parameter is monitored by the Right Hand Quadrant Display (Engine Cluster) system on the Virus SW 80?
+A) Fuel Quantity.
+B) Slip & Trim.
+C) Airspeed.
+D) Altitude.
+
+Questions number 7. What type of gauges are used for vertical speed indication on the Virus SW 80?
+A) Digital.
+B) Analogue.
+C) Hybrid.
+D) None of the above.
+
+Questions number 8.  Which of the following is NOT an engine parameter displayed on the Right Hand Quadrant Display (Engine Cluster) system?
+A) Oil Pressure.
+B) Busbar & Battery Voltage.
+C) Fuel Flow.
+D) Vertical Speed.
+
+Question number 9. Which of the following is NOT a gauge type used for altitude indication on the Virus SW 80?
+A) Digital.
+B) Analogue.
+C) Hybrid.
+D) None of the above.
+
+Question number 10. What type of gauges are used for RPM indication on the Virus SW 80?
+A) Digital.
+B) Analogue.
+C) Hybrid.
+D) None of the above.
+
+Question number 11. What type of gauges are used for RPM indication on the Virus SW 80?
+A) Digital.
+B) Analogue.
+C) Hybrid.
+D) None of the above.
+
+Video : 19 - Instrument/Communication/Navigation Systems
+Question number 1. Which radio unit is included in the Virus SW 80 Communication System?
+A) Garmin Aera 500.
+B) X COM VHF 760 Trans-receiver.
+C) Garmin G1000.
+D) Bendix/King KX 155.
+
+Question number 2. What type of navigation system is used in the Virus SW 80?
+A) Analog Compass.
+B) Garmin Aera 500 GPS touch screen.
+C) VOR Navigation.
+D) LORAN-C.
+
+Question number 3. What type of trans-receiver is used in the Virus SW 80 Communication System?
+A) UHF.
+B) VHF.
+C) HF.
+D) MF.
+
+Question number 4. What unit is used to indicate altitude on the Virus SW 80 altimeter?
+A) Meters.
+B) Feet.
+C) Kilometers.
+D) Miles.
+
+Question number 5. How many indicators does the altimeter have on its LCD display?
+A) One.
+B) Two.
+C) Three.
+D) Four.
+
+Question number 6. Which of the following is NOT an indication on the Virus SW 80 altimeter?
+A) Flight Level.
+B) Altitude referenced, 1013.25 hPa.
+C) QNH in hPa.
+D) Airspeed in knots.
+
+Question number 7. What is the reference pressure for altitude indication on the Virus SW 80 altimeter?
+A) 1013.25 hPa.
+B) 1000 hPa.
+C) 1020 hPa.
+D) 990 hPa.
+
+Question number 8. What does QNH represent on the Virus SW 80 altimeter?
+A) Altitude in feet.
+B) Flight Level.
+C) Altitude referenced, 1013.25 hPa.
+D) Atmospheric pressure at sea level in hPa.
+
+Question number 9. Which of the following is an indication on the Virus SW 80 altimeter?
+A) Airspeed in knots.
+B) Vertical Speed.
+C) Altitude in feet.
+D) Engine RPM.
+
+Question number 10. What unit is used to indicate speed on the Virus SW 80 Air Speed Indicator (ASI)?
+A) Miles per hour.
+B) Kilometers per hour.
+C) Knots.
+D) Meters per second.
+
+Question number 11. How is speed displayed on the Virus SW 80 ASI?
+A) Digital only.
+B) Analogue only.
+C) Both digital and analogue.
+D) Neither digital nor analogue.
+
+Question number 12. What happens to the speed indication on the Virus SW 80 ASI when speed exceeds 135 Kts?
+A) It turns green.
+B) It turns red.
+C) It starts to pulse/blink.
+D) It turns blue.
+
+Question number 13. At what speed does the Virus SW 80 ASI start to pulse/blink?
+A) Below 50 Kts.
+B) Below 45 Kts.
+C) Below 40 Kts.
+D) Below 35 Kts.
+
+Question number 14. Which of the following is a feature of the Virus SW 80 ASI?
+A) Speed indication turns red when speed exceeds 135 Kts.
+B) Speed indication turns blue when speed exceeds 135 Kts.
+C) Speed indication turns green when speed exceeds 135 Kts.
+D) Speed indication turns yellow when speed exceeds 135 Kts.
+
+Question number 15. What happens to the speed indication on the Virus SW 80 ASI when speed drops below 40 Kts?
+A) It turns red.
+B) It turns green.
+C) It starts to pulse/blink.
+D) It turns blue.
+
+Question number 16. What is the range of the tachometer in the Virus SW 80?
+A) 0 – 5000 RPM.
+B) 0 – 6000 RPM.
+C) 0 – 7000 RPM.
+D) 0 – 8000 RPM
+
+Question number 17. How is the RPM displayed on the Virus SW 80 tachometer?
+A) Digital only.
+B) Analogue only.
+C) Both analogue and digital.
+D) Neither analogue nor digital.
+
+Question number 18. What happens to the RPM display on the Virus SW 80 tachometer when engine RPM exceeds 5800?
+A) It turns green.
+B) It turns blue.
+C) It turns red.
+D) It starts to pulse/blink.
+
+Question number 19. At what RPM does the totaliser start counting engine hours on the Virus SW 80 tachometer?
+A) 500.
+B) 600.
+C) 700.
+D) 800.
+
+Question number 20. Which of the following is displayed on the Virus SW 80 tachometer?
+A) Airspeed.
+B) Altitude.
+C) Engine RPM and Engine Hour Totaliser.
+D) Fuel Quantity.
+
+Question number 21. What is the function of the Engine Hour Totaliser on the Virus SW 80 tachometer?
+A) To display airspeed.
+B) To display altitude.
+C) To count engine hours when RPM exceeds 700.
+D) To display fuel quantity.
+
+Question number 22. What units are used to indicate vertical speed on the analogue display of the Virus SW 80 variometer?
+A) Meters per second and feet per minute.
+B) Meters per second and kilometers per hour.
+C) Feet per minute and miles per hour.
+D) Meters per second and miles per hour.
+
+Question number 23. What unit is used to indicate vertical speed on the digital LCD of the Virus SW 80 variometer?
+A) Meters per second.
+B) Kilometers per hour.
+C) Feet per minute.
+D) Miles per hour.
+
+Question number 24. When does the additional LCD on the Virus SW 80 variometer start registering flight time?
+A) When speed exceeds 30 Kts for more than 05 seconds.
+B) When speed exceeds 35 Kts for more than 05 seconds.
+C) When speed exceeds 36 Kts for more than 05 seconds.
+D) When speed exceeds 40 Kts for more than 05 seconds.
+
+Question number 25. Which of the following is NOT a feature of the Virus SW 80 variometer?
+A) Indication of vertical speed in meters per second on analogue display.
+B) Indication of vertical speed in feet per minute on digital LCD.
+C) Additional LCD for flight time registration.
+D) Indication of airspeed in knots.
+
+Question number 26. What happens when the speed exceeds 36 Kts for more than 05 seconds on the Virus SW 80 variometer?
+A) The vertical speed indication turns red.
+B) The additional LCD starts registering flight time.
+C) The vertical speed indication starts to pulse/blink.
+D) The vertical speed indication turns green.
+
+Question number 27. Which of the following units is NOT used on the Virus SW 80 variometer?
+A) Meters per second.
+B) Feet per minute.
+C) Kilometers per hour.
+D) Knots.
+
+Video :  20  - Engine Cluster Display
+Question number 1. In what unit is oil pressure displayed on the Virus SW 80 Engine Cluster?
+A) Bar.
+B) PSI.
+C) Pascal.
+D) ATM.
+
+Question number 2. What happens to the displayed oil pressure value if it drops below 14.5 PSI on the Virus SW 80 Engine Cluster?
+A) It turns green with a ‘LOW’ warning.
+B) It turns blue with a ‘LOW’ warning.
+C) It turns red with a ‘LOW’ warning.
+D) It starts to pulse/blink with a ‘LOW’ warning.
+
+Question number 3. At what oil pressure value does the display show a ‘HIGH’ warning on the Virus SW 80 Engine Cluster?
+A) Above 80.0 PSI.
+B) Above 85.5 PSI.
+C) Above 90.0 PSI.
+D) Above 94.3 PSI.
+
+Question number 4. What color does the oil pressure value turn if it rises above 94.3 PSI on the Virus SW 80 Engine Cluster?
+A) Green.
+B) Blue.
+C) Red.
+D) Yellow.
+
+Question number 5. Which of the following is a feature of the oil pressure display on the Virus SW 80 Engine Cluster?
+A) Displays oil pressure in Bar.
+B) Displays oil pressure in PSI.
+C) Displays oil pressure in Pascal.
+D) Displays oil pressure in ATM.
+
+Question number 6. In what unit is oil temperature displayed on the Virus SW 80 Engine Cluster?
+A) Fahrenheit.
+B) Kelvin.
+C) Celsius.
+D) Rankine.
+
+Question number 7. What happens to the displayed oil temperature value if it rises above 125 degrees Celsius on the Virus SW 80 Engine Cluster?
+A) It turns green with a ‘HIGH’ warning.
+B) It turns blue with a ‘HIGH’ warning.
+C) It turns red with a ‘HIGH’ warning.
+D) It starts to pulse/blink with a ‘HIGH’ warning.
+
+Question number 8. Is there an alarm or warning for low oil temperature on the Virus SW 80 Engine Cluster?
+A) Yes, it turns red with a ‘LOW’ warning.
+B) Yes, it turns blue with a ‘LOW’ warning.
+C) No, there is no alarm or warning for low oil temperature.
+D) Yes, it starts to pulse/blink with a ‘LOW’ warning.
+
+Question number 9. When is the oil temperature warning message displayed on the Virus SW 80 Engine Cluster?
+A) Only when the engine is running.
+B) Only when the engine is turned off.
+C) When the engine is turned off.
+D) When the engine is running and turned off.
+
+Question number 10. Which of the following is a feature of the oil temperature display on the Virus SW 80 Engine Cluster?
+A) Displays oil temperature in Fahrenheit.
+B) Displays oil temperature in Celsius.
+C) Displays oil temperature in Kelvin.
+D) Displays oil temperature in Rankine.
+
+Question number 11. In what unit is coolant temperature displayed on the Virus SW 80 Engine Cluster?
+A) Fahrenheit.
+B) Kelvin.
+C) Celsius.
+D) Rankine.
+
+Question number 12. What happens to the displayed coolant temperature value if it rises above 120 degrees Celsius on the Virus SW 80 Engine Cluster?
+A) It turns green with a ‘HIGH’ warning.
+B) It turns blue with a ‘HIGH’ warning.
+C) It turns red with a ‘HIGH’ warning.
+D) It starts to pulse/blink with a ‘HIGH’ warning.
+
+Question number 13. Which of the following is a feature of the coolant temperature display on the Virus SW 80 Engine Cluster?
+A) Displays coolant temperature in Fahrenheit.
+B) Displays coolant temperature in Celsius.
+C) Displays coolant temperature in Kelvin.
+D) Displays coolant temperature in Rankine.
+
+Question number 14. What is the threshold for the coolant temperature to trigger a ‘HIGH’ warning on the Virus SW 80 Engine Cluster?
+A) 100 degrees Celsius.
+B) 110 degrees Celsius.
+C) 120 degrees Celsius.
+D) 130 degrees Celsius.
+
+Question number 15. Which of the following is NOT a feature of the coolant temperature display on the Virus SW 80 Engine Cluster?
+A) Displays coolant temperature in Celsius.
+B) Turns red with a ‘HIGH’ warning above 120 degrees Celsius.
+C) Displays coolant temperature in Fahrenheit.
+D) Monitors CT1 & CT2.
+
+Question number 16. In what unit is manifold pressure (MAP) displayed on the Virus SW 80 Engine Cluster?
+A) PSI.
+B) Bar.
+C) Millimeter of Hg.
+D) Pascal.
+
+Question number 17. What happens to the displayed manifold pressure value if it rises above a certain threshold on the Virus SW 80 Engine Cluster?
+A) It turns red with a ‘HIGH’ warning.
+B) It turns blue with a ‘HIGH’ warning.
+C) It starts to pulse/blink with a ‘HIGH’ warning.
+D) There is no warning.
+
+Question number 18. Which of the following is a feature of the manifold pressure (MAP) display on the Virus SW 80 Engine Cluster?
+A) Displays manifold pressure in PSI.
+B) Displays manifold pressure in Bar.
+C) Displays manifold pressure in millimeter of Hg.
+D) Displays manifold pressure in Pascal.
+
+Question number 19. Is there any warning for high manifold pressure on the Virus SW 80 Engine Cluster?
+A) Yes, it turns red with a ‘HIGH’ warning.
+B) Yes, it turns blue with a ‘HIGH’ warning.
+C) No, there is no warning.
+D) Yes, it starts to pulse/blink with a ‘HIGH’ warning.
+
+Question number 20. In what unit is voltage displayed on the Virus SW 80 Engine Cluster?
+A) Amperes.
+B) Volts.
+C) Watts.
+D) Ohms.
+
+Question number 21. What happens to the displayed Busbar voltage value if it drops below 11.4 volts on the Virus SW 80 Engine Cluster?
+A) It turns green with a ‘LOW’ warning.
+B) It turns blue with a ‘LOW’ warning.
+C) It turns red with a ‘LOW’ warning.
+D) It starts to pulse/blink with a ‘LOW’ warning.
+
+Question number 22. At what voltage value does the displayed Busbar voltage become red with a ‘HIGH’ warning on the Virus SW 80 Engine Cluster?
+A) Above 12.4 volts.
+B) Above 13.4 volts.
+C) Above 14.4 volts.
+D) Above 15.4 volts.
+
+Question number 23. When is the voltage warning message displayed on the Virus SW 80 Engine Cluster?
+A) Only when the engine is running.
+B) Only when the engine is turned off.
+C) When the engine is turned off.
+D) When the engine is running and turned off.
+
+Question number 24. Which of the following is a feature of the voltage display on the Virus SW 80 Engine Cluster?
+A) Displays voltage in Amperes.
+B) Displays voltage in Volts.
+C) Displays voltage in Watts.
+D) Displays voltage in Ohms.
+
+Question number 25. In what unit is fuel pressure displayed on the Virus SW 80 Engine Cluster?
+A) Bar.
+B) PSI.
+C) Pascal.
+D) ATM.
+
+Question number 26. What happens to the displayed fuel pressure value if it drops below 2.2 PSI on the Virus SW 80 Engine Cluster?
+A) It turns green with a ‘LOW’ warning.
+B) It turns blue with a ‘LOW’ warning.
+C) It turns red with a ‘LOW’ warning.
+D) It starts to pulse/blink with a ‘LOW’ warning.
+
+Question number 27. At what fuel pressure value does the display show a ‘HIGH’ warning on the Virus SW 80 Engine Cluster?
+A) Above 4.8 PSI.
+B) Above 5.3 PSI.
+C) Above 5.8 PSI.
+D) Above 6.3 PSI.
+
+Question number 28. What color does the fuel pressure value turn if it rises above 5.8 PSI on the Virus SW 80 Engine Cluster?
+A) Green.
+B) Blue.
+C) Red.
+D) Yellow.
+
+Question number 29. Which of the following is a feature of the fuel pressure display on the Virus SW 80 Engine Cluster?
+A) Displays fuel pressure in Bar.
+B) Displays fuel pressure in PSI.
+C) Displays fuel pressure in Pascal.
+D) Displays fuel pressure in ATM.
+
+Question number 30. In what unit is Exhaust Gas Temperature (EGT) displayed on the Virus SW 80 Engine Cluster?
+A) Fahrenheit.
+B) Kelvin.
+C) Celsius.
+D) Rankine.
+
+Question number 31. What happens to the displayed EGT value if it rises above 925 degrees Celsius on the Virus SW 80 Engine Cluster?
+A) It turns green with a ‘HIGH’ warning.
+B) It turns blue with a ‘HIGH’ warning.
+C) It turns red with a ‘HIGH’ warning.
+D) It starts to pulse/blink with a ‘HIGH’ warning.
+
+Question number 32. Is there an alarm provided for low EGT on the Virus SW 80 Engine Cluster?
+A) Yes, it turns red with a ‘LOW’ warning.
+B) Yes, it turns blue with a ‘LOW’ warning.
+C) No, there is no alarm for low EGT.
+D) Yes, it starts to pulse/blink with a ‘LOW’ warning.
+
+Question number 33. When is the EGT warning message displayed on the Virus SW 80 Engine Cluster?
+A) Only when the engine is running.
+B) Only when the engine is turned off.
+C) When the engine is turned off.
+D) When the engine is running and turned off.
+
+Question number 34. Which of the following is a feature of the EGT display on the Virus SW 80 Engine Cluster?
+A) Displays EGT in Fahrenheit.
+B) Displays EGT in Celsius.
+C) Displays EGT in Kelvin.
+D) Displays EGT in Rankine.
+
+Question number 35. In what unit is fuel quantity displayed on the Virus SW 80 Engine Cluster?
+A) Liters.
+B) Gallons.
+C) Percentage.
+D) Cubic meters.
+
+Question number 36. What happens to the displayed fuel quantity value if it drops below 10 liters on the Virus SW 80 Engine Cluster?
+A) It turns green with a ‘LOW’ warning.
+B) It turns blue with a ‘LOW’ warning.
+C) It turns red with a ‘LOW’ warning.
+D) It starts to pulse/blink with a ‘LOW’ warning.
+
+Question number 37. At what fuel quantity does the display show a ‘LOW’ warning on the Virus SW 80 Engine Cluster?
+A) Below 5 liters.
+B) Below 7 liters.
+C) Below 10 liters.
+D) Below 12 liters.
+
+Question number 38. Which of the following is a feature of the fuel quantity display on the Virus SW 80 Engine Cluster?
+A) Displays fuel quantity in liters.
+B) Displays fuel quantity in gallons.
+C) Displays fuel quantity in percentage.
+D) Displays fuel quantity in cubic meters.
+
+Question number 39. What color does the fuel quantity value turn if it drops below 10 liters on the Virus SW 80 Engine Cluster?
+A) Green.
+B) Blue.
+C) Red.
+D) Yellow.
+
+Question number 40. In what unit is fuel flow displayed on the Virus SW 80 Engine Cluster?
+A) Gallons per hour.
+B) Liters per hour.
+C) Cubic meters per hour.
+D) Milliliters per hour.
+
+Question number 41. What factors influence the fuel flow value displayed on the Virus SW 80 Engine Cluster?
+A) Engine RPM and airspeed.
+B) Manifold pressure and altitude.
+C) Engine RPM, manifold pressure, and engine fuel consumption data.
+D) Airspeed and altitude.
+
+Question number 42. When is the fuel flow display available on the Virus SW 80 Engine Cluster?
+A) When more than 5 liters of fuel is available in the tank.
+B) When more than 7 liters of fuel is available in the tank.
+C) When more than 10 liters of fuel is available in the tank.
+D) When more than 12 liters of fuel is available in the tank.
+
+Question number 43. Which of the following is a feature of the fuel flow display on the Virus SW 80 Engine Cluster?
+A) Displays fuel flow in gallons per hour.
+B) Displays fuel flow in liters per hour.
+C) Displays fuel flow in cubic meters per hour.
+D) Displays fuel flow in milliliters per hour.
+
+Question number 44. What is the minimum fuel quantity required for the fuel flow display to be available on the Virus SW 80 Engine Cluster?
+A) 5 liters.
+B) 7 liters.
+C) 10 liters.
+D) 12 liters.
+
+Video : 21 - Communication System
+Question number 1. What type of controls are available on the front panel of the X COM VHF 760 Transreceiver in the Virus SW 80?
+A) Digital volume control.
+B) Squelch control.
+C) VOX intercom control.
+D) All of the above.
+
+Question number 2. How many memory channels does the X COM VHF 760 Transreceiver have?
+A) 88.
+B) 99.
+C) 100.
+D) 121.
+
+Question number 3. What is the primary channel frequency for the VHF Guard Frequency on the X COM VHF 760 Transreceiver?
+A) 118.5 MHz.
+B) 119.5 MHz.
+C) 120.5 MHz.
+D) 121.5 MHz.
+
+Question number 4. How many user-defined channels are available on the X COM VHF 760 Transreceiver?
+A) 88.
+B) 99.
+C) 100.
+D) 121.
+
+Question number 5. What voltage levels trigger a low battery alert on the X COM VHF 760 Transreceiver?
+A) Below 9.5 Volts DC.
+B) Below 10.5 Volts DC.
+C) Below 11.5 Volts DC.
+D) Below 12.5 Volts DC.
+
+Question number 6. What voltage levels trigger an over voltage alert on the X COM VHF 760 Transreceiver?
+A) Above 13.5 Volts DC.
+B) Above 14.5 Volts DC.
+C) Above 15.5 Volts DC.
+D) Above 16.5 Volts DC.
+
+Video : 22 - Navigation System
+Question number 1. What is the screen size of the Garmin AERA 500 GPS?
+A) 3.5 inches.
+B) 4.3 inches.
+C) 5.0 inches.
+D) 6.0 inches.
+
+Question number 2. What type of display does the Garmin AERA 500 GPS have?
+A) Monochrome LCD.
+B) Colour TFT with white backlight.
+C) OLED.
+D) E Ink.
+
+Question number 3. How long does the lithium-ion battery of the Garmin AERA 500 GPS last?
+A) Up to 3 hours.
+B) Up to 4 hours.
+C) Up to 5 hours.
+D) Up to 6 hours.
+
+Question number 4. What is the GPS refresh rate of the Garmin AERA 500 GPS?
+A) 1 Hz.
+B) 2 Hz.
+C) 5 Hz.
+D) 10 Hz.
+
+Question number 5. What type of warnings are included in the Garmin AERA 500 GPS map display?
+A) Speed limit warnings.
+B) Terrain and obstacle warnings.
+C) Fuel level warnings.
+D) Altitude warnings.
+
+Question number 6. How many waypoints can the flight plan mode of the Garmin AERA 500 GPS comprise?
+A) 10 – 100 waypoints.
+B) 20 – 200 waypoints.
+C) 50 – 300 waypoints.
+D) 100 – 400 waypoints.
+
+Question number 7. What type of unit is the Garmin AERA 500 GPS described as?
+A) Fragile and delicate.
+B) Rugged and waterproof.
+C) Lightweight and portable.
+D) Heavy and bulky.
+
+Question number 8. What feature does the Garmin AERA 500 GPS automatically adjust while navigating?
+A) Altitude.
+B) Speed.
+C) Time zones.
+D) Fuel consumption.
+
+Video : 23 - Pitot Static System
+Question number 1. Where is the Pitot tube attached on the Virus SW 80?
+A) Top side of the left-hand wing.
+B) Bottom side of the right-hand wing.
+C) Top side of the right-hand wing.
+D) Bottom side of the left-hand wing.
+
+Question number 2. Where do the Pitot lines lead in the Virus SW 80?
+A) Through the fuselage to the tail.
+B) Through the inside of the wing to the instrument panel.
+C) Through the landing gear to the cockpit.
+D) Through the engine compartment to the instrument panel.
+
+Question number 3. What is the primary function of the Pitot tube in the Virus SW 80?
+A) Measure fuel flow.
+B) Measure airspeed.
+C) Measure altitude.
+D) Measure engine temperature.
+
+Question number 4. Which wing is the Pitot tube attached to in the Virus SW 80?
+A) Left-hand wing.
+B) Right-hand wing.
+C) Both wings.
+D) Neither wing.
+
+Question number 5. What does the Pitot Static System in the Virus SW 80 primarily measure?
+A) Airspeed and altitude.
+B) Fuel pressure and temperature.
+C) Oil pressure and temperature.
+D) Manifold pressure and voltage.
+
+Chapter 2 - LIMITATIONS / PROHIBITIONS / RESTRICTIONS
+Video : 24 - Manuever Limitations
+Question number 1. At what altitude should power on/off stalls not be carried out in the Virus SW 80?
+A) Below 1000 ft AGL.
+B) Below 1500 ft AGL.
+C) Below 2000 ft AGL.
+D) Below 2500 ft AGL.
+
+Question number 2. What is the entry speed for power on/off lazy eights in the Virus SW 80?
+A) 90 Kts.
+B) 100 Kts.
+C) 110 Kts.
+D) 120 Kts.
+
+Question number 3. At what altitude should power on/off lazy eights not be carried out in the Virus SW 80?
+A) Below 1000 ft AGL.
+B) Below 1500 ft AGL.
+C) Below 2000 ft AGL.
+D) Below 2500 ft AGL.
+
+Question number 4. What is the initial speed for steep turns in the Virus SW 80?
+A) 90 Kts.
+B) 100 Kts.
+C) 110 Kts.
+D) 120 Kts.
+
+Question number 5. At what altitude should Chandelle maneuvers not be carried out in the Virus SW 80?
+A) Below 300 ft AGL.
+B) Below 400 ft AGL.
+C) Below 500 ft AGL.
+D) Below 600 ft AGL.
+
+Question number 6. What is the entry speed for Chandelle maneuvers in the Virus SW 80?
+A) 100 Kts.
+B) 110 Kts.
+C) 120 Kts.
+D) 130 Kts.
+
+Question number 7. At what altitude should spin initiation not be carried out in the Virus SW 80?
+A) Below 1500 ft AGL.
+B) Below 2000 ft AGL.
+C) Below 2500 ft AGL.
+D) Below 3000 ft AGL.
+
+Question number 8. At what degree should recovery be initiated in an actual spinning maneuver in the Virus SW 80?
+A) Maximum 90 degrees.
+B) Maximum 180 degrees.
+C) Maximum 270 degrees.
+D) Maximum 360 degrees.
+
+Question number 9. For what type of operations is the Virus SW 80 approved?
+A) Night VFR operations.
+B) Day VFR operations.
+C) IFR operations.
+D) All-weather operations.
+
+Video : 25 - Prohibitions  
+Question number 1. Which of the following is prohibited for the Virus SW 80?
+A) Flying with one door open.
+B) Flying with both doors open.
+C) Flying with windows open.
+D) Flying with the canopy open.
+
+Question number 2. In which weather condition is flying the Virus SW 80 prohibited?
+A) Light rain.
+B) Heavy rainfall.
+C) Clear skies.
+D) Overcast skies.
+
+Question number 3.  Which of the following conditions is prohibited for the Virus SW 80?
+A) Flying in light turbulence.
+B) Flying in thunderstorm activity.
+C) Flying in mild winds.
+D) Flying in clear weather.
+
+Question number 4. What is the maximum outside air temperature (OAT) at which the Virus SW 80 can be flown?
+A) 45 degrees Celsius.
+B) 50 degrees Celsius.
+C) 55 degrees Celsius.
+D) 60 degrees Celsius.
+
+Question number 5. What is the maximum alcohol content allowed in the fuel used for the Virus SW 80?
+A) 5%
+B) 10%
+C) 15%
+D) 20%
+
+Question number 6. Which of the following maneuvers is prohibited for the Virus SW 80?
+A) Steep turns.
+B) Lazy eights.
+C) Aerobatic maneuvers including full developed spin.
+D) Chandelle maneuvers.
+
+Question number 7. What is prohibited during takeoff and landing for the Virus SW 80?
+A) Takeoff with flaps partially extended.
+B) Takeoff with flaps fully retracted.
+C) Landing with flaps partially extended.
+D) Landing with flaps fully extended.
+
+Question number 8. Which weather condition is prohibited for flying the Virus SW 80?
+A) Light rain.
+B) Blizzards.
+C) Overcast skies.
+D) Clear skies.
+
+Question number 9. What type of flight conditions are prohibited for the Virus SW 80?
+A) VFR (Visual Flight Rules) conditions.
+B) IMC (Instrument Meteorological Conditions) / IFR (Instrument Flight Rules) conditions.
+C) Daylight conditions.
+D) Calm wind conditions.
+
+Video : 26- Limitations / Restrictions / Warnings
+Question number 1. What is the maximum wind speed for parking the Pipistrel Virus SW 80 outdoors without tie-down?
+A) 10 Kts.
+B) 15 Kts.
+C) 20 Kts.
+D) 25 Kts.
+
+Question number 2. What is the maximum wind speed for parking the Pipistrel Virus SW 80 outdoors with tie-down?
+A) 30 Kts.
+B) 35 Kts.
+C) 40 Kts.
+D) 45 Kts.
+
+Question number 3. Flying in side slip turbulence may result in:
+A) Increased fuel consumption.
+B) Non-precise fuel quantity indication.
+C) Engine failure.
+D) Improved fuel efficiency.
+
+Question number 4. Soft grass runways tend to increase take-off performance data by:
+A) 10%
+B) 15%
+C) 20%
+D) 25%
+
+Question number 5. Headwinds shorten take-off and landing length required by how many meters for every 3 Kts / 5 Kmph of increase in wind speed?
+A) 6 meters.
+B) 8 meters.
+C) 10 meters.
+D) 12 meters.
+
+Question number 6. Tailwinds extend take-off and landing length required by how many meters for every 3 Kts / 5 Kmph of increase in wind speed?
+A) 10-20 meters.
+B) 15-25 meters.
+C) 18-28 meters.
+D) 20-30 meters.
+
+Question number 7. Tailwinds affect take-off and landing performance by:
+A) Less than headwinds.
+B) The same as headwinds.
+C) More than twice as much as headwinds.
+D) Not at all.
+
+Chapter 3 – Technical Specifications
+Video : 27-  Airframe
+Question no 1. What is the wing span of the Pipistrel Virus SW 80?
+A) 9.5 metres
+B) 10.5 metres
+C) 11.5 metres
+D) 12.5 metres
+
+Question no 2. What is the length of the Pipistrel Virus SW 80?
+A) 5.5 metres
+B) 6.5 metres
+C) 7.5 metres
+D) 8.5 metres
+
+Question no 3. What is the height of the Pipistrel Virus SW 80?
+A) 1.95 metres
+B) 2.05 metres
+C) 2.15 metres
+D) 2.25 metres
+
+Question no 4. What is the height of the Pipistrel Virus SW 80?
+A) 1.95 metres
+B) 2.05 metres
+C) 2.15 metres
+D) 2.25 metres
+
+Question no 5. What is the vertical fin area of the Pipistrel Virus SW 80?
+A) 0.90 Sq metres
+B) 1.00 Sq metres
+C) 1.10 Sq metres
+D) 1.20 Sq metres
+
+Question no 6. What is the aspect ratio of the Pipistrel Virus SW 80?
+A) 10.8
+B) 11.8
+C) 12.8
+D) 13.8
+
+Question no 7. What is the angle of the positive flaps down in Position 1 for the Pipistrel Virus SW 80?
+A) 10 degrees
+B) 15 degrees
+C) 20 degrees
+D) 25 degrees
+
+Question no 8. What is the angle of the positive flaps down in Position 2 for the Pipistrel Virus SW 80?
+A) 15 degrees
+B) 20 degrees
+C) 25 degrees
+D) 30 degrees
+
+Question no 9. What are the center of gravity limits for the Pipistrel Virus SW 80 in terms of MAC?
+A) 10% - 28%
+B) 20% - 38%
+C) 30% - 48%
+D) 40% - 58%
+
+Question no 10. What is the range of the center of gravity limits for the Pipistrel Virus SW 80 in millimeters backwards of datum?
+A) 120mm – 268mm
+B) 170mm – 318mm
+C) 220mm – 368mm
+D) 270mm – 418mm
+
+Question no 11. What is the maximum take-off weight (MTOW) of the Pipistrel Virus SW 80?
+A) 452.5 Kgs
+B) 462.5 Kgs
+C) 472.5 Kgs
+D) 482.5 Kgs
+
+Question no 12. What is the standard empty weight of the Pipistrel Virus SW 80?
+A) 255 Kgs
+B) 265 Kgs
+C) 275 Kgs
+D) 285 Kgs
+
+Question no 13. What is the maximum useful load of the Pipistrel Virus SW 80?
+A) 177.5 Kgs
+B) 187.5 Kgs
+C) 197.5 Kgs
+D) 207.5 Kgs
+
+Question no 14. What is the maximum baggage weight of the Pipistrel Virus SW 80?
+A) 10 Kgs
+B) 15 Kgs
+C) 20 Kgs
+D) 25 Kgs
+
+Question no 15. What is the maximum load per seat for the Pipistrel Virus SW 80?
+A) 100 Kgs
+B) 110 Kgs
+C) 120 Kgs
+D) 130 Kgs
+
+Question no 16. What is the minimum combined crew weight for the Pipistrel Virus SW 80?
+A) 45 Kgs
+B) 50 Kgs
+C) 55 Kgs
+D) 60 Kgs
+
+Question no 17. What is the total fuel capacity of the Pipistrel Virus SW 80?
+A) 45 Ltrs
+B) 48 Ltrs
+C) 50 Ltrs
+D) 52 Ltrs
+
+Question no 18. What is the usable fuel capacity of the Pipistrel Virus SW 80?
+A) 45 Ltrs
+B) 46 Ltrs
+C) 47 Ltrs
+D) 48 Ltrs
+
+Question no 19. What is the oil capacity of the Pipistrel Virus SW 80?
+A) 2 Ltrs
+B) 3 Ltrs
+C) 4 Ltrs
+D) 5 Ltrs
+
+Question no 20. What is the maximum positive 'G' load factor for the Pipistrel Virus SW 80?
+A) +3 G
+B) +4 G
+C) +5 G
+D) +6 G
+
+Question no 21. What is the maximum negative 'G' load factor for the Pipistrel Virus SW 80?
+A) -1 G
+B) -2 G
+C) -3 G
+D) -4 G
+
+Question no 22. What is the tested minimum safety factor for the Pipistrel Virus SW 80?
+A) 1.675
+B) 1.775
+C) 1.875
+D) 1.975
+
+Video : 28 - Engine/Powerplant
+1. What type of engine does the Pipistrel Virus SW 80 use?
+A) Rotax 912 A (80 HP)
+B) Rotax 914 F (100 HP)
+C) Lycoming O-235 (115 HP)
+D) Continental O-200 (100 HP)
+
+2. How many cylinders does the Rotax 912 A engine have?
+A) 2
+B) 3
+C) 4
+D) 6
+
+3. What is the propeller type used in the Pipistrel Virus SW 80?
+A) Variable Pitch
+B) Fixed Pitch
+C) Constant Speed
+D) Feathering
+
+4. What is the propeller type used in the Pipistrel Virus SW 80?
+A) Variable Pitch
+B) Fixed Pitch
+C) Constant Speed
+D) Feathering
+
+5. What is the absolute ceiling at MTOW for the Pipistrel Virus SW 80?
+A) 5000 metres / 16,400 feet
+B) 5500 metres / 18,000 feet
+C) 6000 metres / 19,700 feet
+D) 6200 metres / 20,300 feet
+
+6. What is the engine performance of the Pipistrel Virus SW 80 at 5500 RPM?
+A) 50.0 KW (67 HP)
+B) 55.0 KW (74 HP)
+C) 58.0 KW (79 HP)
+D) 60.0 KW (82 HP)
+
+7. What is the engine performance of the Pipistrel Virus SW 80 at 5800 RPM?
+A) 57.6 KW (77 HP)
+B) 58.6 KW (78 HP)
+C) 59.6 KW (81 HP)
+D) 60.6 KW (83 HP)
+
+8. For how long can the Pipistrel Virus SW 80 engine operate at 59.6 KW (81 HP) at 5800 RPM?
+A) 3 minutes
+B) 4 minutes
+C) 5 minutes
+D) 6 minutes
+
+9. What is the torque of the Pipistrel Virus SW 80 engine at 4800 RPM?
+A) 93 Nm (68.6 foot pounds)
+B) 103 Nm (75.9 foot pounds)
+C) 113 Nm (83.3 foot pounds)
+D) 123 Nm (90.7 foot pounds)
+
+Question no 10. What is the compression ratio of the Pipistrel Virus SW 80 engine?
+A) 8:1
+B) 9:1
+C) 10:1
+D) 11:1
+
+11. What type of cooling system does the Pipistrel Virus SW 80 use?
+A) Air cooled Cylinder Heads, Ram Air cooled Cylinders
+B) Water cooled Cylinder Heads, Ram Air cooled Cylinders
+C) Oil cooled Cylinder Heads, Ram Air cooled Cylinders
+D) Water cooled Cylinder Heads, Oil cooled Cylinders
+
+12. What type of lubrication system does the Pipistrel Virus SW 80 use?
+A) Wet Sump Forced Lubrication
+B) Dry Sump Forced Lubrication
+C) Splash Lubrication
+D) Pressure Lubrication
+
+13. What type of ignition system does the Pipistrel Virus SW 80 use?
+A) Single Breakerless Capacitor Discharge
+B) Dual Breakerless Capacitor Discharge
+C) Magneto Ignition
+D) Distributor Ignition
+
+14. What is the maximum coolant temperature for the Pipistrel Virus SW 80 engine?
+A) 100 deg C
+B) 110 deg C
+C) 120 deg C
+D) 130 deg C
+
+15. What is the normal range for Exhaust Gas Temperature (EGT) in the Pipistrel Virus SW 80?
+A) 600 deg C – 850 deg C
+B) 650 deg C – 885 deg C
+C) 700 deg C – 900 deg C
+D) 750 deg C – 950 deg C
+
+16. What is the maximum Exhaust Gas Temperature (EGT) for the Pipistrel Virus SW 80?
+A) 850 deg C
+B) 875 deg C
+C) 900 deg C
+D) 925 deg C
+
+17. What is the maximum EGT difference allowed for the Pipistrel Virus SW 80?
+A) 20 deg C
+B) 25 deg C
+C) 30 deg C
+D) 35 deg C
+
+18. What is the normal range for oil temperature in the Pipistrel Virus SW 80?
+A) 70 deg C – 90 deg C
+B) 80 deg C – 100 deg C
+C) 90 deg C – 110 deg C
+D) 100 deg C – 120 deg C
+
+19. What is the maximum oil temperature for the Pipistrel Virus SW 80 engine?
+A) 120 deg C
+B) 130 deg C
+C) 140 deg C
+D) 150 deg C
+
+20. What is the minimum oil temperature for the Pipistrel Virus SW 80 engine?
+A) 40 deg C
+B) 45 deg C
+C) 50 deg C
+D) 55 deg C
+
+21. What is the minimum oil pressure for the Pipistrel Virus SW 80 engine?
+A) 0.5 Bar (7.25 PSI)
+B) 1.0 Bar (14.5 PSI)
+C) 1.5 Bar (21.75 PSI)
+D) 2.0 Bar (29.0 PSI)
+
+22. What is the maximum oil pressure for the Pipistrel Virus SW 80 engine?
+A) 5.0 Bar (72.5 PSI)
+B) 5.5 Bar (79.75 PSI)
+C) 6.0 Bar (87.0 PSI)
+D) 6.5 Bar (94.25 PSI)
+
+23. What is the maximum engine RPM on the ground for the Pipistrel Virus SW 80?
+A) 5000 RPM
+B) 5200 RPM
+C) 5400 RPM
+D) 5500 RPM
+
+24. What is the maximum permitted RPM for the Pipistrel Virus SW 80 engine?
+A) 5600 RPM
+B) 5700 RPM
+C) 5800 RPM
+D) 5900 RPM
+
+25. At what RPM is the magneto drop check performed for the Pipistrel Virus SW 80?
+A) 3500 RPM
+B) 4000 RPM
+C) 4500 RPM
+D) 5000 RPM
+
+26. What is the maximum single magneto drop allowed for the Pipistrel Virus SW 80?
+A) 200
+B) 250
+C) 300
+D) 350
+
+27. What is the maximum difference in magneto drop allowed for the Pipistrel Virus SW 80?
+A) 100
+B) 115
+C) 130
+D) 145
+
+28. What is the recommended fuel for the Pipistrel Virus SW 80?
+A) Unleaded Regular Grade 87
+B) Unleaded Super Grade 93 or above Max 10% alcohol
+C) Leaded Aviation Fuel 100LL
+D) Diesel Fuel
+
+Video : 29 - Performance
+1. What is the take-off ground roll at MTOW for the Pipistrel Virus SW 80?
+A) 120 metres
+B) 130 metres
+C) 140 metres
+D) 150 metres
+
+2. What is the take-off ground roll over a 50 ft obstacle for the Pipistrel Virus SW 80?
+A) 200 metres
+B) 215 metres
+C) 225 metres
+D) 235 metres
+
+3. What is the best climb speed for the Pipistrel Virus SW 80?
+A) 66 Knots
+B) 76 Knots
+C) 86 Knots
+D) 96 Knots
+
+4. What is the best climb rate at MTOW for the Pipistrel Virus SW 80 at sea level?
+A) 1020 feet per minute
+B) 1120 feet per minute
+C) 1220 feet per minute
+D) 1320 feet per minute
+
+5. What is the best climb rate at 100 Kts for the Pipistrel Virus SW 80?
+A) 600 feet per minute
+B) 700 feet per minute
+C) 800 feet per minute
+D) 900 feet per minute
+
+6. What is the cruise air speed for the Pipistrel Virus SW 80?
+A) 102 Kts
+B) 112 Kts
+C) 122 Kts
+D) 132 Kts
+
+7. What is the sink rate at 50 Kts for the Pipistrel Virus SW 80 with full flaps and power idle?
+A) 340 feet per minute
+B) 390 feet per minute
+C) 440 feet per minute
+D) 490 feet per minute
+
+8. What is the minimum sink rate speed for the Pipistrel Virus SW 80?
+A) 48 Knots
+B) 58 Knots
+C) 68 Knots
+D) 78 Knots
+
+9. What is the minimum sink rate with flaps at 15° for the Pipistrel Virus SW 80?
+A) 360 feet per minute
+B) 410 feet per minute
+C) 460 feet per minute
+D) 510 feet per minute
+
+10. What is the best L/D ratio speed for the Pipistrel Virus SW 80?
+A) 54 Knots
+B) 64 Knots
+C) 74 Knots
+D) 84 Knots
+
+11. What is the best L/D ratio with flaps at 15° for the Pipistrel Virus SW 80?
+A) 15:1
+B) 16:1
+C) 17:1
+D) 18:1
+
+12. What is the final approach speed with flaps at 25° for the Pipistrel Virus SW 80?
+A) 40 Knots
+B) 45 Knots
+C) 50 Knots
+D) 55 Knots
+
+13. What is the landing roll at MTOW (SL) for the Pipistrel Virus SW 80?
+A) 310 feet
+B) 360 feet
+C) 410 feet
+D) 460 feet
+
+Video : 30  -  Airspeeds
+1. What is the stall speed with clean configuration (flaps up) for the Pipistrel Virus SW 80?
+A) 40 Knots
+B) 43 Knots
+C) 46 Knots
+D) 49 Knots
+
+2. What is the stall speed with flaps at 25° for the Pipistrel Virus SW 80?
+A) 30 Knots
+B) 35 Knots
+C) 40 Knots
+D) 45 Knots
+
+3. What is the maximum speed with flaps at 15° for the Pipistrel Virus SW 80?
+A) 60 Knots
+B) 65 Knots
+C) 70 Knots
+D) 75 Knots
+
+4. What is the maximum speed with flaps at 25° for the Pipistrel Virus SW 80?
+A) 50 Knots
+B) 55 Knots
+C) 60 Knots
+D) 65 Knots
+
+5. What is the maximum design maneuvering speed (VA) for the Pipistrel Virus SW 80?
+A) 76 Knots
+B) 81 Knots
+C) 86 Knots
+D) 91 Knots
+
+6. What is the maximum speed (VNE) for the Pipistrel Virus SW 80?
+A) 125 Knots
+B) 130 Knots
+C) 135 Knots
+D) 140 Knots
+
+7. What is the normal operating speed (VNO) for the Pipistrel Virus SW 80?
+A) 98 Knots
+B) 103 Knots
+C) 108 Knots
+D) 113 Knots
+
+Video  : 31 - ASI Markings
+1. What is the range of the white band on the ASI for the Pipistrel Virus SW 80?
+A) 30 – 65 Knots
+B) 35 – 70 Knots
+C) 40 – 75 Knots
+D) 45 – 80 Knots
+
+2. What is the range of the white band on the ASI in Kmph for the Pipistrel Virus SW 80?
+A) 55 – 120 Kmph
+B) 60 – 125 Kmph
+C) 65 – 130 Kmph
+D) 70 – 135 Kmph
+
+3. What does the white band on the ASI represent for the Pipistrel Virus SW 80?
+A) Normal Operating Range
+B) Full Flap Operating Range
+C) Maneuvering Speed Range
+D) Maximum Speed Range
+
+4. What is the lower limit of the white band on the ASI for the Pipistrel Virus SW 80?
+A) Maximum weight Vs1
+B) Maximum weight Vso
+C) Maximum weight Vfe
+D) Maximum weight Vne
+
+5.What is the upper limit of the white band on the ASI for the Pipistrel Virus SW 80?
+A) Maximum speed with Flaps 1 (10°) Position
+B) Maximum speed with Flaps 1 (15°) Position
+C) Maximum speed with Flaps 1 (20°) Position
+D) Maximum speed with Flaps 1 (25°) Position
+
+6. What is the range of the green band on the ASI for the Pipistrel Virus SW 80?
+A) 38 – 103 Knots
+B) 40 – 105 Knots
+C) 43 – 108 Knots
+D) 45 – 110 Knots
+
+7. What is the range of the green band on the ASI in Kmph for the Pipistrel Virus SW 80?
+A) 73 – 191 Kmph
+B) 78 – 196 Kmph
+C) 83 – 201 Kmph
+D) 88 – 206 Kmph
+
+8. What does the green band on the ASI represent for the Pipistrel Virus SW 80?
+A) Full Flap Operating Range
+B) Normal Operating Range
+C) Maneuvering Speed Range
+D) Maximum Speed Range
+
+9. What is the lower limit of the green band on the ASI for the Pipistrel Virus SW 80?
+A) Maximum weight Vs1 at C of G max forward & flaps fully retracted
+B) Maximum weight Vso at C of G max forward & flaps fully retracted
+C) Maximum weight Vfe at C of G max forward & flaps fully retracted
+D) Maximum weight Vne at C of G max forward & flaps fully retracted
+
+10. What is the upper limit of the green band on the ASI for the Pipistrel Virus SW 80?
+A) Maximum structural cruising speed (in calm air)
+B) Maximum structural cruising speed (in turbulent air)
+C) Maximum speed with Flaps 1 (15°) Position
+D) Maximum speed with Flaps 2 (25°) Position
+
+11. What is the range of the yellow band on the ASI for the Pipistrel Virus SW 80?
+A) 98 – 125 Knots
+B) 103 – 130 Knots
+C) 108 – 135 Knots
+D) 113 – 140 Knots
+
+12. What does the yellow band on the ASI represent for the Pipistrel Virus SW 80?
+A) Normal Operating Range
+B) Full Flap Operating Range
+C) Maneuvering Speed Range (with caution) in calm air only
+D) Maximum Speed Range
+
+13. What is the red band on the ASI for the Pipistrel Virus SW 80?
+A) 125 Knots
+B) 130 Knots
+C) 135 Knots
+D) 140 Knots
+
+14. What does the red band on the ASI represent for the Pipistrel Virus SW 80?
+A) Normal Operating Range
+B) Full Flap Operating Range
+C) Maneuvering Speed Range
+D) Maximum Speed for all operations (VNE)
+
+Video  :  32 -  Engine Instrument Markings
+1. What is the minimum RPM (Red Line) for the Pipistrel Virus SW 80 tachometer?
+A) 1400
+B) 1500
+C) 1600
+D) 1700
+
+2. What is the normal operating RPM range (Green) for the Pipistrel Virus SW 80 tachometer?
+A) 1500 – 5400
+B) 1600 – 5500
+C) 1700 – 5600
+D) 1800 – 5700
+
+3. What is the caution range (Yellow) for the Pipistrel Virus SW 80 tachometer?
+A) 5400 – 5700
+B) 5500 – 5800
+C) 5600 – 5900
+D) 5700 – 6000
+
+4. What is the maximum RPM (Red Line) for the Pipistrel Virus SW 80 tachometer?
+A) 5600
+B) 5700
+C) 5800
+D) 5900
+
+5. What is the minimum oil temperature (Red) for the Pipistrel Virus SW 80?
+A) 40° C
+B) 45° C
+C) 50° C
+D) 55° C
+
+6. What is the normal oil temperature range (Green) for the Pipistrel Virus SW 80?
+A) 80° C – 100° C
+B) 85° C – 105° C
+C) 90° C – 110° C
+D) 95° C – 115° C
+
+7. What is the caution range (Yellow) for the oil temperature in the Pipistrel Virus SW 80?
+A) 100° C – 130° C
+B) 105° C – 135° C
+C) 110° C – 140° C
+D) 115° C – 145° C
+
+8. What is the maximum oil temperature (Red) for the Pipistrel Virus SW 80?
+A) 130° C
+B) 135° C
+C) 140° C
+D) 145° C
+
+9. What is the caution range (Yellow) for the coolant temperature in the Pipistrel Virus SW 80?
+A) 100° C – 110° C
+B) 105° C – 115° C
+C) 110° C – 120° C
+D) 115° C – 125° C
+
+10. What is the maximum coolant temperature (Red) for the Pipistrel Virus SW 80?
+A) 110° C
+B) 115° C
+C) 120° C
+D) 125° C
+
+11. What is the minimum oil pressure (Red) for the Pipistrel Virus SW 80?
+A) 0.5 Bar (7.25 PSI)
+B) 1.0 Bar (14.5 PSI)
+C) 1.5 Bar (21.75 PSI)
+D) 2.0 Bar (29.0 PSI)
+
+12. What is the maximum oil pressure for the Pipistrel Virus SW 80?
+A) 5.0 Bar (72.5 PSI)
+B) 5.5 Bar (79.75 PSI)
+C) 6.0 Bar (87.0 PSI)
+D) 6.5 Bar (94.25 PSI)
+
+13. What type of battery does the Pipistrel Virus SW 80 use?
+A) Lead-Acid
+B) Nickel-Cadmium
+C) Lithium-Ion
+D) Lithium Phosphate
+
+14. What is the nominal voltage and amp-hour rating of the alternator in the Pipistrel Virus SW 80?
+A) 12 Volts, 6.5 Amp Hour
+B) 12 Volts, 7.0 Amp Hour
+C) 12 Volts, 7.5 Amp Hour
+D) 12 Volts, 8.0 Amp Hour
+
+15. What is the power output of the alternator at 5500 RPM in the Pipistrel Virus SW 80?
+A) 200 W
+B) 225 W
+C) 250 W
+D) 275 W
+
+16. Which of the following is NOT a function of the electrical system in the Pipistrel Virus SW 80?
+A) Charges battery
+B) Provides power to all appliances/instruments
+C) Provides supply to Nav/Strobe Lights, Cockpit Lights, Radio, GPS, Instruments
+D) Provides hydraulic power
+
+Video : 33 - Checks & Procedures / Cockpit Preflight Inspection
+1. What should be carried out before proceeding to the aircraft?
+A) Pre-flight briefing covering the complete sortie profile
+B) Post-flight briefing covering the complete sortie profile
+C) Pre-flight briefing covering only the take-off
+D) Post-flight briefing covering only the landing
+
+2. What must be completed to ensure all participants are fully fit to fly?
+A) Pre-flight meals only
+B) Medical check only
+C) Pre-flight meals and medical check
+D) Post-flight meals and medical check
+
+3. What document must be filled in and signed before proceeding to the aircraft?
+A) Flight Log Book
+B) Authorisation Book
+C) Maintenance Log Book
+D) Navigation Log Book
+4. What form must be completed, closed, and signed before proceeding to the aircraft?
+A) Form – 600
+B) Form – 700
+C) Form – 800
+D) Form – 900
+
+5. What should be checked inside the cockpit during the preflight inspection?
+A) Instruments and instrument panel for condition
+B) Fuel quantity only
+C) Safety belts only
+D) Radio wiring only
+
+6. What should be checked regarding the fuses during the cockpit preflight inspection?
+A) Fuses should be removed
+B) Fuses should be checked
+C) Fuses should be replaced
+D) Fuses should be ignored
+
+7. What should be checked regarding the battery disconnection ring during the cockpit preflight inspection?
+A) The battery disconnection ring should be removed.
+B) The battery disconnection ring should be in its slot.
+C) The battery disconnection ring should be replaced.
+D) The battery disconnection ring should be ignored.
+
+8.After checking the battery disconnection ring in its slot, what should be verified next during the cockpit preflight inspection?
+A) Ensure all switches are turned on.
+B) Ensure all switches are turned off.
+C) Ensure some switches are turned on.
+D) Ensure some switches are turned off.
+
+9. What position should the Master Switch be in to check the Generator Fail light?
+A) Key in full left position
+B) Key in full right position
+C) Key in middle position
+D) Key in off position
+
+10. After turning the Master Switch on, what should be checked next during the cockpit preflight inspection?
+A) Check the fuel quantity.
+B) Check the Gene Fail light is ON.
+C) Check all instruments set to initial setting.
+D) Check the flaps for full deflection.
+
+11. What should be checked regarding the Pitot static lines and cables during the cockpit preflight inspection?
+A) They should be disconnected
+B) They should be correctly connected and in position
+C) They should be replaced
+D) They should be ignored
+
+12. What should be checked regarding the main wing spar during the cockpit preflight inspection?
+A) Connection, bolts, and nuts in position
+B) Only the bolts
+C) Only the nuts
+D) Only the connection
+
+13. What should be checked regarding the safety belts during the cockpit preflight inspection?
+A) Safety belts should be removed
+B) Safety belts should be undamaged
+C) Safety belts should be replaced
+D) Safety belts should be ignored
+
+14. What should be checked regarding the fuel quantity during the cockpit preflight inspection?
+A) Fuel quantity should be ignored
+B) Fuel quantity should be checked and sufficient for sortie
+C) Fuel quantity should be checked and insufficient for sortie
+D) Fuel quantity should be replaced
+
+15. What should be done after pressing the Fuel CB during the cockpit preflight inspection?
+A) Check the fuel quantity.
+B) Check the fuel not leaking from the gascolator.
+C) Check the safety belts.
+D) Check the flaps for full deflection.
+
+16. What should be checked regarding the elevator trim during the cockpit preflight inspection?
+A) Elevator trim should be set to maximum
+B) Elevator trim should be set to minimum
+C) Elevator trim should be set to neutral
+D) Elevator trim should be ignored
+
+17. What should be checked regarding the flaps during the cockpit preflight inspection?
+A) Flaps should be set to full deflection and back to ‘0’ position
+B) Flaps should be set to full deflection only
+C) Flaps should be set to ‘0’ position only
+D) Flaps should be ignored
+
+18. What should be checked regarding the radio during the cockpit preflight inspection?
+A) Ensure the radio is turned off.
+B) Ensure the radio is disconnected.
+C) Ensure the radio wiring is intact.
+D) Ensure the radio is replaced.
+
+19. What should be checked regarding the emergency parachute release handle during the cockpit preflight inspection?
+A) Safety pin should be removed
+B) Safety pin should be ‘IN’
+C) Safety pin should be replaced
+D) Safety pin should be ignored
+
+Video :  34  -  Preflight External Checks
+No Questions (Must Learn All these Checkups)
+
+Video : 35 -  Engine Cowling
+1. What should be checked for the engine cowling?
+A) Fasteners and screws in place, cowling undamaged
+B) Only fasteners in place
+C) Only screws in place
+D) None of the above
+
+2. What should be ensured for the spinner dome?
+A) No mechanical damage, bolts & nuts in place
+B) Only bolts in place
+C) Only nuts in place
+D) No mechanical damage, bolts & nuts missing
+
+3. What should be checked for the propeller?
+A) Any damage/cracks, clean, bolts & nuts secure
+B) Only damage
+C) Only cracks
+D) Only cleanliness
+
+4. What should be checked for the nose undercarriage?
+A) Any mechanical damage, hydraulic line secure, no leaks
+B) Only mechanical damage
+C) Only hydraulic line secure
+D) Only leaks
+
+5. What should be checked for the nose tyre?
+A) Cuts, cracks, and creep
+B) Only cuts
+C) Only cracks
+D) Only creep
+
+6. What should be checked on the RH side of the engine cowling?
+A) Coolant level minimum halfway to top through panel, exhaust pipes free of cracks
+B) Only coolant level
+C) Only exhaust pipes
+D) None of the above
+
+7. What should be checked for the wing leading edge?
+A) Surface condition for dents, cracks or separation, cleanliness, pitot tube firmly attached, no damage, no block
+B) Only dents
+C) Only cracks
+D) Only cleanliness
+
+8. What should be checked for the wing tip?
+A) Surface condition of tip, Nav/strobe lights for condition, wings for play
+B) Only surface condition
+C) Only Nav/strobe lights
+D) Only wings for play
+
+9. What should be checked for the wing trailing edge?
+A) Any damage, Flaperon movement, vertical or horizontal play
+B) Only damage
+C) Only Flaperon movement
+D) Only vertical play
+
+10. What should be checked for the undercarriage (starboard)?
+A) Any mechanical damage, hydraulic pipes for condition/leaks, tyre for cuts, pressure, and creep
+B) Only mechanical damage
+C) Only hydraulic pipes
+D) Only tyre
+
+11. What should be checked for the parachute self-adhesive tape?
+A) Position and separation
+B) Position and damage
+C) Separation and damage
+D) Position, separation, and damage
+
+12. What should be checked for the tail boom?
+A) Free of damage
+B) Free of cracks
+C) Free of damage and cracks
+D) Free of separation
+
+13. What should be checked for the horizontal tail surface?
+A) Cracks, hinges for play, central securing screw fastened and secure
+B) Only cracks
+C) Only hinges for play
+D) Only central securing screw
+
+14. What should be ensured for the elevator surface?
+A) Smoothness, free movement up & down, no sideward play
+B) Only smoothness
+C) Only free movement up & down
+D) Only no sideward play
+
+15. What should be checked for the vertical tail surface?
+
+A) Cracks, hinges for play, rudder cable ends intact & in position
+B) Only cracks
+C) Only hinges for play
+D) Only rudder cable ends
+
+16. What should be ensured for the fuel tank cap?
+A) Secure
+B) Clean
+C) Fastened
+D) Intact
+
+17. What should be ensured for the antenna?
+A) Firmly attached
+B) Clean
+C) Secure
+D) Intact
+
+18. What should be checked for the undercarriage (port)?
+A) Mechanical damage, hydraulic pipes for condition/leaks, tyre for cuts, pressure, and creep
+B) Only mechanical damage
+C) Only hydraulic pipes
+D) Only tyre
+
+Video : 36,37 - Entering Cockpit
+1. What is the first step to enter the cabin?
+A) Sit onto the cabin’s edge
+B) Lift the door all the way to the bottom wing surface
+C) Drag oneself into the seat
+D) Check rudder pedals position
+
+2. What secures the glass door in position?
+A) The door handle
+B) The silver knob
+C) The round black knob
+D) The rudder pedals
+
+3. How should one support their body when entering the cabin?
+A) By placing both hands on the stick
+B) By placing both hands on the cabin edge
+C) By placing one hand on the cabin edge and one on the stick
+D) By placing both hands on the door handle
+
+4. What should be done immediately after sitting in the seat?
+A) Lower the door
+B) Fasten seat belts
+C) Check rudder pedals position
+D) Rotate the handle to lock the door
+
+5. How can the position of the rudder pedals be adjusted?
+A) By pulling the silver knob
+B) By pulling the round black knob ahead of the stick on the floor
+C) By rotating the handle
+D) By lifting the door
+
+6. What should not be done to lower the door?
+A) Grab and pull the door handle
+B) Gently pull the silver knob
+C) Rotate the handle
+D) Verify that all three closing points are secured
+
+7. How should the door be closed securely?
+A) By pulling the round black knob
+B) By lifting the door
+C) By rotating the handle so that it locks
+D) By dragging oneself into the seat
+
+8. What should be verified after closing the door?
+A) The position of the rudder pedals
+B) That all three closing points are secured
+C) The position of the silver knob
+D) The position of the round black knob
+
+9. Who should help fasten the seat belts?
+A) The pilot
+B) The co-pilot
+C) The ground crew
+D) The passenger
+
+10. What should be done first after putting on the headsets and adjusting the mic position?
+A) Select Avionics switch ON
+B) Check all instruments and EMS display ON
+C) Select Master Switch ON
+D) Obtain permission from ATC for start up
+
+11. What should be done after selecting the Master Switch ON?
+A) Select Avionics switch ON
+B) Check all instruments and EMS display ON
+C) Select intercom switch ON
+D) Remove safety pin from Parachute Emergency Release Handle
+
+12. What should be checked after selecting the Avionics switch ON?
+A) All instruments and EMS display ON
+B) Intercom switch ON
+C) RT set ON
+D) Obtain permission from ATC for start up
+
+13. What should be done after checking all instruments and EMS display ON?
+A) Select Master Switch ON
+B) Select intercom switch ON
+C) Remove safety pin from Parachute Emergency Release Handle
+D) Obtain permission from ATC for start up
+
+14. What should be done after selecting the intercom switch ON?
+A) Check reading str 5
+B) Select Master Switch ON
+C) Obtain permission from ATC for start up
+D) Remove safety pin from Parachute Emergency Release Handle
+
+15. What should be done after selecting the RT set ON?
+A) Check reading str 5
+B) Select Master Switch ON
+C) Obtain permission from ATC for start up
+D) Remove safety pin from Parachute Emergency Release Handle
+
+16. What should be done after obtaining permission from ATC for start up?
+A) Select Master Switch ON
+B) Select Avionics switch ON
+C) Remove safety pin from Parachute Emergency Release Handle
+D) Check all instruments and EMS display ON
+
+17. What should be done after removing the safety pin from the Parachute Emergency Release Handle?
+A) Select Master Switch ON
+B) Select Avionics switch ON
+C) Check all instruments and EMS display ON
+D) Obtain permission from ATC for start up
+
+Video :  38 - Checks Before Engine Start
+1. What should be checked first before engine start?
+A) Confirm Pitot cover removed
+B) Check fuel quantity sufficient for duration of flight
+C) Confirm Parachute safety pin removed
+D) Engage wheel brakes and apply parking brakes
+
+2. What should be done after confirming the Pitot cover is removed?
+A) Check fuel quantity sufficient for duration of flight
+B) Confirm Parachute safety pin removed
+C) Engage wheel brakes and apply parking brakes
+D) Check fuel valve open, fuel CB IN, fuel pump on (by sound)
+
+3. What should be confirmed regarding the parachute before engine start?
+A) Parachute safety pin inserted
+B) Parachute safety pin removed
+C) Parachute safety pin secured
+D) Parachute safety pin checked
+
+4. What should be done after engaging the wheel brakes and applying parking brakes?
+A) Check fuel valve open, fuel CB IN, fuel pump on (by sound)
+B) Confirm Parachute safety pin removed
+C) Select Avionics OFF and both magnetos ON
+D) Check area around and propeller area clear
+
+5. What should be done in case of a cold start?
+A) Select Avionics OFF and both magnetos ON
+B) Select choke fully open by pulling choke lever fully back
+C) Check area around and propeller area clear
+D) Engage starter button till engine starts
+
+6. What should be done after selecting Avionics OFF and both magnetos ON?
+A) Check area around and propeller area clear
+B) Engage starter button till engine starts
+C) Select Avionics switch ON
+D) Check oil pressure registering and within limits
+
+7. What should be done after engaging the starter button till the engine starts?
+A) Select Avionics switch ON
+B) Check oil pressure registering and within limits
+C) Set throttle to adjust RPM below 2500
+D) Select choke lever fully forward (Closed) while maintaining RPM
+
+8. What should be done before starting the engine?
+A) Check fuel quantity sufficient for duration of flight
+B) Confirm Pitot cover removed
+C) Check area around and propeller area clear. Take clearance from ground crew for start
+D) Engage wheel brakes and apply parking brakes
+
+9. What should be done after setting the throttle to adjust RPM below 2500?
+A) Select Avionics switch ON
+B) Check oil pressure registering and within limits
+C) Select choke lever fully forward (Closed) while maintaining RPM
+D) Check Engine parameters normal
+
+Video : 39  - Engine Warm Up
+1. What is the maximum RPM for engine warm-up?
+A) 2000 RPM
+B) 2500 RPM
+C) 3000 RPM
+D) 3500 RPM
+
+2. At what oil temperature should the engine warm-up be completed?
+A) 40°C
+B) 45°C
+C) 50°C
+D) 55°C
+
+3. Why should engine warm-up be avoided at idle RPM?
+A) It causes the engine to overheat
+B) It causes spark plugs to turn dirty
+C) It wastes fuel
+D) It increases engine noise
+
+4. What should be the position of the engine nose during warm-up?
+A) Pointing away from the wind
+B) Pointing into the wind
+C) Pointing to the left
+D) Pointing to the right
+
+5. What parameters should be monitored during engine warm-up?
+A) Engine temperature and pressure
+B) Fuel level and oil pressure
+C) RPM and fuel consumption
+D) Oil temperature and coolant level
+
+Video : 40 -  Magneto Drop Check
+1. What should be done first before performing the Magneto Drop Check?
+A) Check engine oil temperature 50 deg Celsius or above
+B) Indicate intention to ground crew, check Parking Brakes ON, Control stick fully backward
+C) Slowly open throttle to set engine RPM 4000
+D) Select Left magneto switch off, note drop in RPM, call out drop, not more than 300
+
+2. At what engine RPM should the throttle be set during the Magneto Drop Check?
+A) 3000 RPM
+B) 3500 RPM
+C) 4000 RPM
+D) 4500 RPM
+
+3. What is the maximum allowable drop in RPM when the Left magneto switch is turned off?
+A) 200
+B) 250
+C) 300
+D) 350
+
+4. What should be done after turning the Left magneto switch back on?
+A) Check engine oil temperature 50 deg Celsius or above
+B) Check RPM regains to 4000
+C) Select Right magneto switch off, note drop in RPM, call out drop, not more than 300
+D) Open full throttle and check engine RPM between 5300 – 5500
+
+5. What is the maximum allowable difference in RPM drop between the Left and Right magneto switches?
+A) 100
+B) 115
+C) 130
+D) 150
+
+6. What should be the engine RPM at full throttle at sea level and 25 deg C?
+A) 5000 – 5200 RPM
+B) 5100 – 5300 RPM
+C) 5300 – 5500 RPM
+D) 5500 – 5700 RPM
+
+7. What should be done after closing the throttle fully?
+A) Note idle RPM
+B) Check engine oil temperature 50 deg Celsius or above
+C) Select Left magneto switch off, note drop in RPM, call out drop, not more than 300
+D) Open full throttle and check engine RPM between 5300 – 5500
+
+Video : 41 - Checks Before Taxy
+1. What should be done first before taxiing?
+A) Check engine parameters with operational limits
+B) Check and call out compass heading, ensure reading parking heading
+C) Take RT permission from ATC for taxi
+D) Switch on wing tip Nav/strobe lights
+
+2. What should be ensured about the flight instruments before taxiing?
+A) They are turned off
+B) They are serviceable
+C) They are set to standby mode
+D) They are calibrated
+
+3. To what should the altimeter be set before taxiing?
+A) QFE
+B) QNH
+C) QNE
+D) QFF
+
+4. What should be done after checking the engine parameters?
+A) Take RT permission from ATC for taxi
+B) Check and call out compass heading
+C) Switch on wing tip Nav/strobe lights
+D) Check area around and taxi path clear
+
+5. What should be done after taking RT permission from ATC for taxi?
+A) Check engine parameters with operational limits
+B) Check and call out compass heading
+C) Check area around and taxi path clear
+D) Set throttle to idle and wave off chocks
+
+6. What should be done after ensuring the area around and taxi path are clear?
+A) Check engine parameters with operational limits
+B) Set throttle to idle and wave off chocks
+C) Take RT permission from ATC for taxi
+D) Switch on wing tip Nav/strobe lights
+
+7. What should be done after being cleared by ground crew?
+A) Select parking brakes OFF
+B) Check engine parameters with operational limits
+C) Check and call out compass heading
+D) Take RT permission from ATC for taxi
+
+Video  :   42,43,44 Taxy Procedure
+1. What should be done first after being cleared by ground crew and chocks removed?
+A) Open throttle to set engine RPM 1800
+B) Select Parking Brakes OFF
+C) Apply brakes to check serviceability
+D) Adjust direction with rudder pedals
+
+2. At what RPM should the engine be set when starting to taxi?
+A) 1500 RPM
+B) 1800 RPM
+C) 2000 RPM
+D) 2200 RPM
+
+3. What should be done as the aircraft starts moving forward?
+A) Increase throttle
+B) Close throttle and apply brakes to check serviceability
+C) Adjust direction with rudder pedals
+D) Select Parking Brakes
+
+4. How should the aircraft be taxied in dispersal?
+A) At fast walking pace
+B) At slow walking speed
+C) At jogging speed
+D) At maximum RPM
+
+5. How should the speed be adjusted during taxiing?
+A) Using only the brakes
+B) Using only the throttle
+C) Using RPM and brakes
+D) Using rudder pedals
+
+6. What should be avoided when adjusting direction during taxiing?
+A) Using rudder pedals
+B) Using brakes against power
+C) Using throttle
+D) Using parking brakes
+
+7. What should be done in case of prolonged taxiing?
+A) Stop the engine and restart
+B) Warm up the engine during taxiing
+C) Increase throttle to maximum RPM
+D) Apply brakes continuously
+
+8. How often should brake serviceability be checked during prolonged taxiing?
+A) Every 100 metres
+B) Every 200 metres
+C) Every 300 metres
+D) Every 400 metres
+
+9. What should be done when approaching the taxi holding point short of the runway?
+A) Increase throttle
+B) Apply brakes gradually to stop aircraft
+C) Select Parking Brakes OFF
+D) Adjust direction with rudder pedals
+
+10. What should be ensured after selecting parking brakes ON at the taxi holding point?
+A) Aircraft is moving forward
+B) Aircraft is not moving forward
+C) Engine RPM is at maximum
+D) Rudder pedals are adjusted
+
+Video : 45 - Vital actions before takeoff
+1. What should be checked first before takeoff?
+A) Select flaps as required for takeoff
+B) Check parachute safety pin removed
+C) Check wind direction and speed
+D) Note time and give RT call for line up
+
+2. What should be done with the flaps before takeoff?
+A) Set to Flaps 1 or Flaps 2 depending on runway available and winds
+B) Set to Flaps 3
+C) Set to Flaps 0
+D) Set to Flaps 4
+
+3. What position should the trimmer be in before takeoff?
+A) Fully forward
+B) Fully backward
+C) Neutral position
+D) Slightly forward
+
+4. What should be done with the choke before takeoff?
+A) Fully backward
+B) Fully forward
+C) Neutral position
+D) Slightly backward
+
+5. What should be ensured about the fuel valve before takeoff?
+A) Closed, fuel quantity adequate
+B) Open, fuel quantity adequate
+C) Closed, fuel quantity low
+D) Open, fuel quantity low
+
+6. Which lights should be turned on before takeoff?
+A) Wing tip Nav/strobe lights
+B) Landing light
+C) Taxi light
+D) Beacon light
+
+7. Which switches should be turned on before takeoff?
+A) Master/Avionics/Magneto switches
+B) Fuel pump switch
+C) Pitot heat switch
+D) Anti-ice switch
+
+8. What should be done with the altimeter before takeoff?
+A) Set to QFE
+B) Set to QNH
+C) Set to airfield elevation, back to QNH, note correction
+D) Set to standard pressure
+
+9. What engine parameters should be called out before takeoff?
+A) Oil Pr/Oil Temp/CT 1 & 2/EGT 1 & 2/Fuel Qty (%)
+B) RPM/Fuel Flow/Manifold Pressure
+C) Airspeed/Altitude/Vertical Speed
+D) Battery Voltage/Amperage
+
+10. What should be checked regarding the movement of controls before takeoff?
+A) Full and free movement, no fouling or grinding noise
+B) Partial movement, slight grinding noise
+C) Limited movement, no noise
+D) No movement, loud grinding noise
+
+11. What should be confirmed with the copilot before takeoff?
+A) Harness tight and door closed and locked
+B) Fuel quantity adequate
+C) Wind direction and speed
+D) Altimeter set to QNH
+
+12. What should be noted before giving the RT call for line up?
+A) Engine parameters
+B) Wind direction and speed
+C) Time
+D) Fuel quantity
+
+Video : 46 - Line Up Procedure
+1. What should be checked first after being cleared to line up by the ATC?
+A) Release parking brakes
+B) Open throttle to 1800 RPM
+C) Check base leg, approach, and runway clear
+D) Enter the runway at 90 degrees to runway heading
+
+2. What should be done after releasing the parking brakes?
+A) Check base leg, approach, and runway clear
+B) Open throttle to 1800 RPM and move forward
+C) Enter the runway at 90 degrees to runway heading
+D) Slowly turn with the help of rudder pedals
+
+3. At what RPM should the throttle be set when moving forward?
+A) 1500 RPM
+B) 1800 RPM
+C) 2000 RPM
+D) 2200 RPM
+
+4. What should be rechecked before entering the runway?
+A) Parking brakes
+B) Throttle setting
+C) Approach and runway clear
+D) Nose wheel alignment
+
+5. At what angle should the aircraft enter the runway?
+A) 45 degrees to runway heading
+B) 60 degrees to runway heading
+C) 90 degrees to runway heading
+D) 120 degrees to runway heading
+
+6. How should the aircraft be aligned with the center line?
+A) By using the throttle
+B) By using the brakes
+C) By using the rudder pedals
+D) By using the ailerons
+
+7. What should be done to ensure the nose wheel is straight before applying brakes?
+A) Roll straight for a short distance
+B) Turn sharply with the rudder pedals
+C) Increase throttle to maximum RPM
+D) Apply brakes immediately
+
+Video : 47 - Checks on line up
+1. What should be done first during the checks on line-up?
+A) Check compass reading runway heading
+B) Throttle to idle, aircraft on brakes, aircraft not moving forward
+C) Take off path ahead and above clear
+D) Give RT call to ATC for take off
+
+2. What should be checked regarding the compass during the line-up checks?
+A) Ensure it is turned off
+B) Ensure it is set to QNH
+C) Check compass reading runway heading, note correction if any
+D) Ensure it is set to QFE
+
+3. What should be ensured about the take-off path during the line-up checks?
+A) It is clear ahead and above
+B) It is clear to the left and right
+C) It is clear behind the aircraft
+D) It is clear below the aircraft
+
+4.  What should be done after ensuring the take-off path is clear?
+A) Check compass reading runway heading
+B) Throttle to idle, aircraft on brakes, aircraft not moving forward
+C) Give RT call to ATC for take off
+D) Check engine parameters
+
+5. What is the purpose of giving an RT call to ATC during the line-up checks?
+A) To request permission for taxiing
+B) To request permission for take-off
+C) To request permission for landing
+D) To request permission for engine start
+
+Video : 48 - Take off Procedure
+1. What should be done first after being cleared for take-off by the ATC?
+A) Check engine RPM 5300 – 5500
+B) Release brakes and open throttle slowly to full power
+C) Maintain direction with rudder pedals
+D) Check ASI registering
+
+2. What should the engine RPM be during take-off?
+A) 5000 – 5200 RPM
+B) 5300 – 5500 RPM
+C) 5500 – 5700 RPM
+D) 5700 – 5900 RPM
+
+3. How should the direction be maintained as the aircraft starts moving forward?
+A) Using the throttle
+B) Using the brakes
+C) Using the rudder pedals
+D) Using the ailerons
+
+4. What should be checked as the aircraft accelerates?
+A) Engine temperature
+B) Fuel quantity
+C) ASI registering
+D) Altimeter setting
+
+5. At what speed should the control stick be brought to 1/3rd back to lift the nose wheel off the ground?
+A) 30 – 33 Knots
+B) 35 – 38 Knots
+C) 40 – 43 Knots
+D) 45 – 48 Knots
+
+6. What should be done as the speed approaches 40 – 43 Knots?
+A) Gently pull back on the stick to get airborne
+B) Increase throttle to maximum RPM
+C) Apply brakes to slow down
+D) Check engine parameters
+
+Video : 49 - Checks after Take Off
+1. What should be ensured first after take-off?
+A) Accelerate at full power
+B) Safely airborne, correct climbing attitude, wings level
+C) Apply brakes momentarily to stop wheels rotating
+D) Select flaps at Flaps 1 position
+
+2. What should be done to stop the wheels from rotating after take-off?
+A) Apply brakes momentarily
+B) Reduce engine RPM
+C) Select flaps to Flaps 0 position
+D) Turn off the landing light
+
+3. At what height and speed should the flaps be checked at Flaps 1 position?
+A) Height 100 ft, speed 40 knots
+B) Height 150 ft, speed 50 knots
+C) Height 200 ft, speed 60 knots
+D) Height 250 ft, speed 70 knots
+
+4. At what height and speed should the flaps be selected to Flaps 0 position?
+A) Height 100 ft, speed 40 knots
+B) Height 150 ft, speed 50 knots
+C) Height 300 ft, speed 70 knots
+D) Height 350 ft, speed 80 knots
+
+5. What should be done with the engine RPM after reaching a height of 300 ft?
+A) Increase engine RPM to maximum
+B) Reduce engine RPM to below 5300 or by 10% (whichever is less)
+C) Maintain engine RPM at 5500
+D) Turn off the engine
+
+6. When should the landing light be turned off after take-off?
+A) After reaching a height of 150 ft
+B) After reaching a height of 300 ft
+C) After reducing engine RPM
+D) After checking engine parameters
+
+7. What should be checked after turning off the landing light?
+A) Flaps position
+B) Engine parameters within limits
+C) Altimeter setting
+D) Fuel quantity
+
+Video : 50 - Climb & Cruise Procedure
+1. At what speed should the aircraft climb during a cross-country or cruise flight?
+A) 80 Knots
+B) 90 Knots
+C) 100 Knots
+D) 110 Knots
+
+2. What should be done upon reaching cruise altitude?
+A) Increase engine power to maximum
+B) Establish horizontal flight and set engine power to cruise setting (5300 RPM)
+C) Decrease engine power to idle
+D) Perform a steep climb
+
+3. What should the engine power be set to during cruise flight?
+A) 5000 RPM
+B) 5200 RPM
+C) 5300 RPM
+D) 5500 RPM
+
+4. How often should checks of engine and flight parameters be carried out during cruise flight?
+A) Every 2 minutes
+B) Every 3 minutes
+C) Every 5 minutes
+D) Every 10 minutes
+
+Video : 51 -  Checks during Cruise
+1. What should be checked first during cruise?
+A) Engine parameters within operational limits
+B) Height, speed, and direction correct
+C) Oil Pressure and Oil Temperature
+D) Fuel quantity
+
+2. What should be done with the engine parameters during cruise?
+A) Ignore them
+B) Call them out
+C) Adjust them to maximum
+D) Turn off the engine
+
+3. Which engine parameters should be checked during cruise?
+A) Oil Pressure, Oil Temperature, CT 1 & CT 2, EGT 1 & EGT 2, Fuel quantity
+B) RPM, Fuel Flow, Manifold Pressure
+C) Airspeed, Altitude, Vertical Speed
+D) Battery Voltage, Amperage
+
+Video : 52,53,54 - Descent Procedure
+1. What should be obtained prior to descent?
+A) Fuel quantity check
+B) RT permission from the ATC and confirm rejoin instructions
+C) Engine parameters check
+D) Altimeter setting
+
+2. What should be done once cleared to descend?
+A) Increase throttle to maximum
+B) Orientate with respect to the destination airfield
+C) Perform a steep climb
+D) Turn off the engine
+
+3. What should be done with the throttle during descent?
+A) Set to full power
+B) Set to idle
+C) Set to half power
+D) Set to maximum RPM
+
+4. What should be done as the speed approaches VNO or below during descent?
+A) Increase altitude
+B) Lower attitude to maintain speed below VNO while losing altitude
+C) Maintain current altitude
+D) Increase throttle to maximum
+
+5. What should be done during descent if the throttle is set to idle?
+A) Keep the throttle at idle continuously
+B) Open the throttle slightly for short periods of time
+C) Increase the throttle to maximum
+D) Turn off the engine
+
+Video : 55 - Checks After Landing
+1. What is the first step after landing and clearing off the runway?
+a) Select Flaps to position ‘0’
+b) Note flight time
+c) Stop aircraft
+d) Turn off landing lights
+
+2. What should be done after stopping the aircraft?
+a) Turn off landing lights
+b) Select Flaps to position ‘0’
+c) Note flight time
+d) Parking brakes ON
+
+3. What position should the flaps be set to after landing?
+a) Position ‘1’
+b) Position ‘2’
+c) Position ‘0’
+d) Position ‘3’
+
+4. When should the landing lights be turned off?
+a) After noting flight time
+b) After selecting flaps to position ‘0’
+c) After parking brakes are off
+d) After taxiing to dispersal
+
+5. What should be noted after turning off the landing lights?
+a) Parking brakes OFF
+b) Flight time
+c) Flaps position
+d) Aircraft speed
+
+6. What should be done before taxiing to dispersal?
+a) Turn off landing lights
+b) Select flaps to position ‘0’
+c) Note flight time
+d) Parking brakes OFF
+
+Video : 56 - Switch Off  Procedure
+1. What is the first step in the switch-off procedure?
+a) Parking Brakes ON
+b) Close throttle to idle
+c) Radio Telephony call
+d) Select all green switches off
+
+2. How long should the engine be allowed to cool down after closing the throttle to idle?
+a) 30 seconds
+b) 1 minute
+c) 2 minutes
+d) 5 minutes
+
+3. What should be done after ensuring the aircraft is not moving forward?
+a) Insert Parachute safety pin
+b) Release parking brakes
+c) Give clearance to position chocks
+d) Exit aircraft
+
+4. When should the avionics be turned off?
+a) After the engine cool time is over
+b) After parking brakes are released
+c) After the Radio Telephony call
+d) After exiting the aircraft
+
+5. What should be done after turning off both magnetos and the master switch?
+a) Close throttle to idle
+b) Insert Parachute safety pin
+c) Fuel Pump CB OUT / Fuel shut off valve close
+d) Exit aircraft
+
+6. What is the final step in the switch-off procedure?
+a) Release parking brakes
+b) Insert Parachute safety pin
+c) Exit aircraft and position pitot cover
+d) Select all green switches off
+
+57,58 - Circuit Approach & Landing
+1. What is the recommended altitude for flying a normal circuit in the Virus SW 80 aircraft?
+A) 500 ft AGL
+B) 700 ft AGL
+C) 1000 ft AGL
+D) 1200 ft AGL
+
+2. At what speed should the Virus SW 80 aircraft be flown during a normal circuit?
+A) 60 – 65 Knots
+B) 65 – 70 Knots
+C) 70 – 75 Knots
+D) 75 – 80 Knots
+
+3. Which factors significantly affect the RPM required to maintain speed and height on the circuit?
+A) Total weight of the aircraft
+B) Airfield elevation
+C) Ambient temperature
+D) All of the above
+
+4. What should be used to maintain consistency in the circuit pattern?
+A) GPS coordinates
+B) Prominent ground features
+C) Air traffic control instructions
+D) Visual flight rules
+
+5. Why is it important to consider the All Up Weight of the aircraft when applying suggested settings?
+A) To ensure fuel efficiency
+B) To maintain proper speed and height
+C) To avoid engine overheating
+D) To comply with air traffic regulations
+
+6. What is the purpose of a normal circuit procedure?
+A) To perform aerobatic maneuvers
+B) To position the aircraft for a safe landing
+C) To test the engine performance
+D) To practice emergency procedures
+
+7. Which leg of the circuit is flown in the direction of takeoff and starts at the commencement of the takeoff roll?
+A) Crosswind leg
+B) Downwind leg
+C) Base leg
+D) Takeoff leg
+
+8. During which leg of the circuit is the aircraft in continuous climb?
+A) Crosswind leg
+B) Downwind leg
+C) Base leg
+D) Takeoff leg
+
+9. What is the main objective during the takeoff leg?
+A) To reach a safe height to commence the crosswind turn
+B) To level out the aircraft
+C) To reduce speed
+D) To perform a steep turn
+
+10. Which leg of the circuit is flown perpendicular (90°) to the direction of takeoff, moving away from the runway?
+A) Takeoff leg
+B) Crosswind leg
+C) Downwind leg
+D) Base leg
+
+11. When does the crosswind leg start?
+A) At the commencement of the takeoff roll
+B) At the commencement of the crosswind turn
+C) At the commencement of the turn onto downwind
+D) At the commencement of the final approach
+
+12. Which leg of the circuit is parallel to the runway and in the opposite direction of takeoff?
+A) Takeoff leg
+B) Crosswind leg
+C) Downwind leg
+D) Base leg
+
+13. When does the downwind leg start?
+A) At the commencement of the takeoff roll
+B) At the commencement of the crosswind turn
+C) From the time the aircraft rolls out parallel to the runway in the opposite direction
+D) At the commencement of the turn onto final approach
+
+14. When does the downwind leg end?
+A) At the commencement of the crosswind turn
+B) At the commencement of the turn onto downwind
+C) At the commencement of the base leg turn
+D) At the commencement of the final approach
+
+15. What is the direction of the downwind leg relative to the takeoff direction?
+A) Perpendicular to the takeoff direction
+B) Parallel to the runway and in the same direction as takeoff
+C) Parallel to the runway and in the opposite direction of takeoff
+D) At a 45-degree angle to the takeoff direction
+
+16. What is the primary purpose of the downwind leg in the circuit procedure?
+A) To perform aerobatic maneuvers
+B) To position the aircraft for a safe landing
+C) To test the engine performance
+D) To practice emergency procedures
+
+17. When does the crosswind leg end?
+A) At the commencement of the crosswind turn
+B) At the commencement of the turn onto downwind
+C) At the commencement of the base leg turn
+D) At the commencement of the final approach
+
+18. What is included in the duration of the crosswind leg?
+A) The time when the aircraft is in continuous climb
+B) The time when the aircraft is descending
+C) The time when circuit height is attained and the aircraft levels out
+D) The time when the aircraft is on final approach
+
+19. What is the primary purpose of the crosswind leg in the circuit procedure?
+A) To perform aerobatic maneuvers
+B) To position the aircraft for a safe landing
+C) To test the engine performance
+D) To practice emergency procedures
+
+20. Which leg of the circuit is flown perpendicular (90°) to the takeoff/landing direction, flying towards the runway?
+A) Takeoff leg
+B) Crosswind leg
+C) Downwind leg
+D) Base leg
+
+21. When does the base leg start?
+A) At the commencement of the takeoff roll
+B) At the commencement of the crosswind turn
+C) When the aircraft rolls out 90° to the direction of takeoff/landing
+D) At the commencement of the final approach
+
+22. When does the base leg end?
+A) At the commencement of the crosswind turn
+B) At the commencement of the turn onto downwind
+C) At the commencement of the turn onto final approach
+D) At the commencement of the takeoff roll
+
+23. What is the primary purpose of the base leg in the circuit procedure?
+A) To perform aerobatic maneuvers
+B) To position the aircraft for a safe landing
+C) To test the engine performance
+D) To practice emergency procedures
+
+24. What is the direction of the base leg relative to the takeoff/landing direction?
+A) Parallel to the runway and in the same direction as takeoff
+B) Parallel to the runway and in the opposite direction of takeoff
+C) Perpendicular (90°) to the takeoff/landing direction, flying towards the runway
+D) At a 45-degree angle to the takeoff/landing direction
+
+25. Which leg of the circuit is flown in the direction of the runway in use?
+A) Takeoff leg
+B) Crosswind leg
+C) Downwind leg
+D) Final approach
+
+26. When does the final approach start?
+A) At the commencement of the takeoff roll
+B) At the commencement of the crosswind turn
+C) From the top of the final approach
+D) At the commencement of the turn onto downwind
+
+27. When does the final approach end?
+A) At the commencement of the crosswind turn
+B) At the commencement of the turn onto downwind
+C) At the commencement of the base leg turn
+D) When the aircraft comes to a stop on the runway
+
+28. What is the primary purpose of the final approach in the circuit procedure?
+A) To perform aerobatic maneuvers
+B) To position the aircraft for a safe landing
+C) To test the engine performance
+D) To practice emergency procedures
+
+29. What is the direction of the final approach relative to the runway in use?
+A) Perpendicular to the runway
+B) Parallel to the runway
+C) In the direction of the runway
+D) At a 45-degree angle to the runway
+
+Video : 59 - Take Off
+1. What should be done after receiving RT clearance from the ATC?
+A) Perform aerobatic maneuvers
+B) Perform a normal takeoff as mentioned in the procedure
+C) Test the engine performance
+D) Practice emergency procedures
+
+2.  What speed should the aircraft accelerate to after raising flaps to position ‘0’?
+A) 60 knots
+B) 65 knots
+C) 75 knots
+D) 80 knots
+
+3. At what altitude should the turning path be checked and a climbing turn commenced?
+A) 300 feet AGL
+B) 400 feet AGL
+C) 500 feet AGL
+D) 600 feet AGL
+
+4. What is the purpose of the climbing turn after reaching 500 feet AGL?
+A) To perform aerobatic maneuvers
+B) To roll out 90° to the runway heading, flying away from the runway
+C) To test the engine performance
+D) To practice emergency procedures
+
+5. What should be checked before commencing the climbing turn?
+A) Engine performance
+B) Fuel quantity
+C) Turning path to the left/right clear
+D) Landing gear position
+
+Video : 60 - Crosswind
+1. When should you commence leveling out during the crosswind leg?
+A) 100 feet before reaching 700 feet AGL
+B) 50 feet before reaching 700 feet AGL
+C) 50 feet before reaching 500 feet AGL
+D) 100 feet before reaching 500 feet AGL
+
+2. What speed should be maintained during the crosswind leg?
+A) 60 knots
+B) 65 knots
+C) 75 knots
+D) 80 knots
+
+3. What engine RPM should be selected to maintain 75 knots during the crosswind leg?
+A) Approximately 4000 RPM
+B) Approximately 4200 RPM
+C) Approximately 4300 RPM
+D) Approximately 4500 RPM
+
+4. At what ground position should you commence a level turn to roll out on downwind?
+A) At the beginning of the crosswind leg
+B) At the end of the crosswind leg
+C) At an appropriate ground position
+D) At 500 feet AGL
+
+Video : 61,62,63 - Downwind
+1. What is the recommended lateral displacement for the downwind leg?
+A) 0.5 NM
+B) 0.7 NM
+C) 1.0 NM
+D) 1.5 NM
+
+2. Why is a lateral displacement of 0.7 NM recommended for the downwind leg?
+A) To perform aerobatic maneuvers
+B) To provide a good margin of safety in case of engine failure
+C) To test the engine performance
+D) To practice emergency procedures
+
+3. What should be checked once rolled out on the downwind leg?
+A) Fuel quantity
+B) Engine temperature
+C) Height, speed, and direction
+D) Landing gear position
+
+4. What should be carried out during the downwind leg checks?
+A) Check fuel quantity
+B) Check engine temperature
+C) Check height, speed, and direction
+D) Check landing gear position
+
+5. What should be checked to ensure the aircraft is flying parallel to the runway during the downwind leg?
+A) Engine parameters
+B) Displacement
+C) Fuel quantity
+D) Landing lights
+
+6. What is the recommended height and speed during the downwind leg?
+A) 500 feet AGL / 60 – 65 knots
+B) 600 feet AGL / 65 – 70 knots
+C) 700 feet AGL / 70 – 75 knots
+D) 800 feet AGL / 75 – 80 knots
+
+7. Which engine parameters should be called out during the downwind leg?
+A) Oil Pr / Oil Temp / CT 1 & CT 2 / EGT 1 & EGT 2 / Fuel quantity
+B) RPM / Manifold Pressure / Fuel Flow / Battery Voltage
+C) Coolant Temp / Oil Pressure / Fuel Pressure / Exhaust Temp
+D) Airspeed / Altitude / Heading / Vertical Speed
+
+8. What action should be taken regarding the landing lights during the downwind leg?
+A) Turn them off
+B) Flash them intermittently
+C) Turn them on
+D) Adjust their brightness
+
+9. What communication action should be taken during the downwind leg?
+A) Make an RT call
+B) Send a text message
+C) Use hand signals
+D) Flash the landing lights
+
+10. What should be done when abeam the live dumbbell?
+A) Increase engine power to full RPM
+B) Reduce engine power to idle RPM
+C) Maintain engine power at cruise RPM
+D) Turn off the engine
+
+11. What speed should be maintained while reducing engine power to idle RPM?
+A) 60 knots
+B) 65 knots
+C) 70 knots
+D) 75 knots
+
+12. What should be done as the speed reduces below 70 knots?
+A) Select flaps to position ‘0’ (Flaps retracted)
+B) Select flaps to position ‘1’ (Flaps 15°)
+C) Select flaps to position ‘2’ (Flaps 25°)
+D) Maintain current flap position
+
+13. What is the target speed before turning onto the base leg?
+A) 50 knots
+B) 55 knots
+C) 60 knots
+D) 65 knots
+
+14. At what clock code position should the turn onto the base leg be commenced for a left-hand circuit?
+A) 0800 to 0730
+B) 0900 to 0830
+C) 0700 to 0630
+D) 0600 to 0530
+
+Video : 64 - Base Leg
+1. What should be the aircraft's heading after rolling out on the base leg?
+A) 45° to the runway heading
+B) 90° to the runway heading
+C) 180° to the runway heading
+D) 270° to the runway heading
+
+2. What is the recommended speed to maintain during the base leg of the Virus SW 80 aircraft?
+A) 50 knots
+B) 55 knots
+C) 60 knots
+D) 65 knots
+
+3. At what height should the aircraft aim to reach the end of the base leg?
+A) 300 feet
+B) 400 feet
+C) 500 feet
+D) 600 feet
+
+4. When should the turn onto finals be commenced during the base leg?
+A) When the threshold/touchdown point is at 0900/0300 clock code position
+B) When the threshold/touchdown point is at 0930/0230 clock code position
+C) When the threshold/touchdown point is at 1000/0400 clock code position
+D) When the threshold/touchdown point is at 1100/0500 clock code position
+
+5. What is the speed to maintain during the final approach?
+A) 50 knots
+B) 55 knots
+C) 60 knots
+D) 65 knots
+
+Video : 65,66 - Final Approach
+1. What should be the throttle position during the final approach?
+A) Full throttle
+B) Half throttle
+C) Idle
+D) Quarter throttle
+
+2. What speed should be maintained when selecting flaps to position '2' (Flaps 25°)?
+A) Below 45 knots
+B) Below 50 knots
+C) Below 55 knots
+D) Below 60 knots
+
+3. What is the target speed to maintain during the final approach?
+A) 45 knots
+B) 50 knots
+C) 55 knots
+D) 60 knots
+
+4. At what speed should the aircraft touch down under normal wind conditions?
+A) 30 knots
+B) 35 knots
+C) 40 knots
+D) 45 knots
+
+5. When should the nose wheel be allowed to touch down?
+A) After speed has been reduced to below 30 knots
+B) After speed has been reduced to below 27 knots
+C) After speed has been reduced to below 25 knots
+D) After speed has been reduced to below 20 knots
+
+6. What should be used to control descent during the final approach?
+A) Flaps
+B) Throttle
+C) Rudder
+D) Ailerons
+
+7. What should be used to control speed during the final approach?
+A) Flaps
+B) Throttle
+C) Attitude
+D) Ailerons
+
+8. What action should be taken once the aircraft is on the ground?
+A) Apply full throttle
+B) Apply braking action and hold the control stick fully back
+C) Raise the nose wheel immediately
+D) Steer the aircraft using ailerons
+
+Video : Circuit Pattern Scheme
+
+Chapter 6 – Stall & Spin Recovery
+Video : 67,68 - Stall
+1. What is the stall speed of the Virus SW 80 Garud aircraft with clean configuration?
+(A) 43 Kts
+(B) 38 Kts
+(C) 34 Kts
+(D) 30 Kts
+
+2. At what flap angle does the Virus SW 80 Garud aircraft have a stall speed of 38 Kts?
+(A) Clean
+(B) Flaps 15°
+(C) Flaps 25°
+(D) Flaps 30°
+
+3. What is the minimum height to commence a stall maneuver in the Virus SW 80 Garud aircraft?
+(A) 1000 ft AGL
+(B) 1200 ft AGL
+(C) 1500 ft AGL
+(D) 2000 ft AGL
+
+4. What is the height loss in recovery from a stall maneuver in the Virus SW 80 Garud aircraft?
+(A) 100 ft
+(B) 150 ft
+(C) 200 ft
+(D) 250 ft
+
+5. What is the stall speed of the Virus SW 80 Garud aircraft with Flaps 25° configuration?
+(A) 43 Kts
+(B) 38 Kts
+(C) 34 Kts
+(D) 30 Kts
+
+Video : 69 - Internal Checks before Stall
+1. What is the minimum height required for recovery during a stall in the Virus SW 80?
+a) 1000 ft AGL
+b) 1500 ft AGL
+c) 2000 ft AGL
+d) 2500 ft AGL
+
+2. Which airframe configuration is not acceptable before performing a stall?
+a) Clean
+b) Flaps 15°
+c) Flaps 25°
+d) Flaps 40°
+
+3. Before performing a stall, which parameter must be checked within limits?
+a) Fuel levels
+b) Engine parameters
+c) Oil pressure
+d) Hydraulic fluid levels
+
+4. When performing stall recovery, why is location important?
+a) To ensure there is no other air traffic nearby
+b) To ensure there is sufficient sector length available for recovery maneuvers
+c) To ensure the aircraft is over water
+d) To ensure good weather conditions
+
+5. Which of the following is NOT a factor to check before performing a stall?
+a) Height sufficient for recovery
+b) Airframe configuration
+c) Engine parameters within limits
+d) Weight of the pilot
+
+Video :  70 -  External Checks before Stall
+1. What should be checked within the local flying area before a stall? 
+a) Fuel level 
+b) Weather forecast 
+c) Assigned sector 
+d) Radio communication
+
+2. Why is it important to avoid populated or prohibited areas before a stall? 
+a) To conserve fuel 
+b) To maintain visual contact with the ground 
+c) To ensure safety in case of an emergency 
+d) To comply with local regulations
+
+3. Which of the following should be avoided during a stall maneuver? 
+a) Dense forest areas 
+b) Large bodies of water 
+c) Open fields 
+d) Mountainous regions
+
+4. Why is it necessary to be aware of cloud cover before a stall? 
+a) To prevent icing 
+b) To ensure visibility 
+c) To avoid turbulence 
+d) To maintain altitude
+
+5. What should be selected as a point of reference before initiating a stall? 
+a) A nearby airport 
+b) A prominent landmark 
+c) A neighboring aircraft 
+d) A road or highway
+
+Video : 71 - Stall Recovery Procedure
+1. What is the first step in the stall recovery procedure?
+a) Smoothly open full power
+b) Move control stick forward to reduce angle of attack
+c) Resume horizontal flight
+d) Ensure not to exceed 70 Kts / 55 Kts during recovery
+
+2. Where should the horizon be positioned for a clean stall?
+a) 1/3rd from top of canopy
+b) On top of canopy
+c) Below the canopy
+d) At the same level as the canopy
+
+3. At what speed should you resume horizontal flight during stall recovery?
+a) 70 Kts
+b) 55 Kts
+c) 50 Kts
+d) 60 Kts
+
+4. When opening full power, what should you do with the throttle lever?
+a) Move it to the midway position
+b) Move it to the fully forward position
+c) Move it to the backward position
+d) Keep it at idle
+
+5. What is the maximum speed during recovery from a stall with Flaps 15°?
+a) 50 Kts
+b) 55 Kts
+c) 60 Kts
+d) 70 Kts
+
+6. What is the maximum speed during recovery from a stall with Flaps 25°?
+a) 50 Kts
+b) 55 Kts
+c) 70 Kts
+d) 60 Kts
+
+Video :  72 - Safety checks after recovery from stall
+1. What is the first safety check after recovery from a stall?
+(a) RT call for 'Operations Normal'
+(b) Orientate with point of reference
+(c) Check engine parameters within limits
+(d) Increase engine power to maximum
+
+2. After recovering from a stall, what should be done to ensure proper orientation?
+(a) Perform a complete 360-degree turn
+(b) Orientate with a point of reference
+(c) Communicate with ground control
+(d) Check fuel levels
+
+3. What RT call should be made after ensuring engine parameters are within limits and orientating with a point of reference?
+(a) "Engine parameters normal"
+(b) "Reference point aligned"
+(c) "Operations Normal"
+(d) "Recovery complete"
+
+4. Why is it important to check engine parameters within limits after a stall recovery?
+(a) To ensure the aircraft is flying straight
+(b) To verify fuel levels
+(c) To ensure the engine is functioning properly and safely
+(d) To adjust the flight path
+
+5. What is the main purpose of orientating with a point of reference after stall recovery?
+(a) To locate the nearest airport
+(b) To ensure the aircraft is on the correct heading
+(c) To communicate with other aircraft
+(d) To adjust altitude
+
+Video :73 - Spin
+1. What is prohibited on the Virus SW 80 aircraft?
+a) Steep turns
+b) Intentional entry into spin
+c) Power-off stalls
+d) Lazy eights
+
+2. At what Centre of Gravity positions is it difficult to fly the Virus SW 80 aircraft into a spin?
+a) Forward Centre of Gravity positions
+b) Aft Centre of Gravity positions
+c) Neutral Centre of Gravity positions
+d) Any Centre of Gravity positions
+
+3. What is the minimum height to commence a one-turn spin on the Virus SW 80 aircraft?
+a) 1500 ft AGL
+b) 2000 ft AGL
+c) 2500 ft AGL
+d) 3000 ft AGL
+
+4. What is required for the Virus SW 80 aircraft to enter a spin?
+a) Full aileron deflections
+b) Full rudder deflections
+c) Partial rudder deflections
+d) No control deflections
+
+5. Why is intentional entry into spin prohibited on the Virus SW 80 aircraft?
+a) The aircraft is not designed for spins
+b) The aircraft is difficult to recover from spins
+c) The aircraft is designed to be difficult to fly into a spin
+d) The aircraft has a high risk of structural damage during spins
+
+Video : 74 - Internal Checks Before Spin
+1. What is the minimum height required for recovery before initiating a spin?
+a) 1500 ft AGL
+b) 2000 ft AGL
+c) 2500 ft AGL
+d) 3000 ft AGL
+
+2. What should be the airframe configuration before initiating a spin?
+a) Flaps extended
+b) Clean
+c) Landing gear down
+d) Spoilers deployed
+
+3. What should be checked regarding engine parameters before initiating a spin?
+a) Engine parameters within limits
+b) Engine parameters above limits
+c) Engine parameters below limits
+d) Engine parameters not checked
+
+4. What should be ensured about the location before initiating a spin?
+a) Sufficient sector length available
+b) Near populated areas
+c) Over water bodies
+d) Near mountains
+
+Video  :75 -  External Checks Before Spin
+1. Where should the check be conducted before initiating a spin?
+a) Outside the local flying area
+b) Within the local flying area in the allotted sector
+c) Over populated areas
+d) Over prohibited areas
+
+2. What type of area should be avoided before initiating a spin?
+a) Populated or prohibited areas
+b) Open fields
+c) Deserted areas
+d) Forested areas
+
+3. What should be avoided in terms of weather conditions before initiating a spin?
+a) Clear skies
+b) Away from clouds and large expanses of water
+c) Near thunderstorms
+d) Near light rain
+
+4. What is important to ensure regarding cloud entry before initiating a spin?
+a) Likely to enter clouds
+b) Not likely to enter clouds, especially during the spin
+c) Always enter clouds
+d) Cloud entry is irrelevant
+
+Video : 76 - Entry
+1. What should be done before getting the throttle to idle during a spin entry?
+a) Apply full rudder
+b) Pick up a point of reference and orientation
+c) Apply full back stick
+d) Count the number of turns
+
+2. At what airspeed should you start applying rudder during a spin entry?
+a) 30 Kts
+b) 45 Kts
+c) 60 Kts
+d) 75 Kts
+
+3. What control inputs should be applied as the aircraft enters the spin?
+a) Full opposite rudder and stick fully forward
+b) Full in-spin rudder and stick fully back
+c) Neutral rudder and stick fully back
+d) Full in-spin rudder and stick fully forward
+
+4. What should be done after counting the number of turns during a spin?
+a) Increase throttle
+b) Apply opposite rudder
+c) Take recovery action
+d) Maintain the spin
+
+Video : 77,78 - Spin Recovery, Note
+1. What should be the first action to take when recovering from a spin?
+a) Apply full rudder in the direction of the spin
+b) Set throttle to idle
+c) Move stick centrally and progressively forward
+d) Check speed 50 Kt
+
+2. Which direction should the rudder be applied during spin recovery?
+a) In the direction of the spin
+b) Opposite to the direction of the spin
+c) Neutral position
+d) Alternating directions
+
+3. What should be done with the control stick during spin recovery?
+a) Move stick fully back
+b) Move stick fully forward
+c) Move stick centrally and progressively forward
+d) Move stick to the left
+
+4. What action should be taken as the aircraft stops spinning?
+a) Apply full throttle
+b) Stop stick movement and centralise rudders
+c) Move stick fully back
+d) Apply full rudder in the direction of the spin
+
+5. What should be checked before pulling up to regain horizontal flight?
+a) Throttle position
+b) Rudder position
+c) Speed 50 Kts
+d) Altitude
+
+6. What tends to happen to the aircraft after spinning for just 90° - 180°?
+a) It continues spinning
+b) It re-establishes normal flight by itself
+c) It enters a dive
+d) It stalls
+
+7. What should be done with the control stick during the recovery phase?
+a) Move it fully back
+b) Move it fully forward
+c) Keep it centered along the lateral axis
+d) Move it to the left
+
+8. What should not be used to stop the spin during recovery?
+a) Rudder
+b) Ailerons
+c) Elevator
+d) Throttle
+
+9. How should recovery from a dive be effected after the aircraft stops spinning?
+a) Using abrupt stick movements
+b) Using gentle stick movements
+c) Using full throttle
+d) Using full rudder
+
+10. What must not be exceeded during the maneuver?
+a) Maximum altitude
+b) Minimum speed
+c) VNE (Velocity Never Exceed)
+d) Maximum G-force
+
+Video : 79 - Engine Failure duting Take Off
+1. What is the correct airspeed to maintain during an engine failure during takeoff?
+A) 45 Knots
+B) 55 Knots
+C) 65 Knots
+D) 75 Knots
+
+2. If there is sufficient runway length available ahead during an engine failure during takeoff, what should you do?
+A) Continue flying
+B) Land the aircraft
+C) Turn back to the runway
+D) Increase airspeed
+
+3. What should you do to avoid obstacles during an engine failure during takeoff?
+A) Ignore them
+B) Perform abrupt maneuvers
+C) Avoid obstacles, if any, in your way
+D) Increase altitude
+
+4. What is the correct action to take with the fuel shut off valve during an engine failure during takeoff?
+A) Turn it ON
+B) Turn it OFF
+C) Leave it as it is
+D) Check for fuel leaks
+
+5. What should you do with the Master switch during an engine failure during takeoff?
+A) Turn it ON
+B) Turn it OFF
+C) Leave it as it is
+D) Check for electrical faults
+
+Video : 80 - Rough engine operation or engine failure in flight
+1. What is the correct airspeed to maintain during rough engine operation or engine failure in flight?
+A) 55 Knots
+B) 64 Knots
+C) 75 Knots
+D) 85 Knots
+
+2. What should you start doing when you experience rough engine operation or engine failure in flight?
+A) Increase altitude
+B) Start analyzing terrain below
+C) Perform aerobatic maneuvers
+D) Increase throttle
+
+3. What should you choose during rough engine operation or engine failure in flight?
+A) Highest altitude
+B) Closest airport
+C) Most appropriate site for landing out
+D) Nearest city
+
+4. What should you do if the engine fails aloft?
+A) Continue flying at the same altitude
+B) Perform a steep dive
+C) Ensure Master switch is in ON position
+D) Increase airspeed
+
+5. What should you do with the magneto switches during rough engine operation or engine failure in flight?
+A) Set one to ON and one to OFF
+B) Turn both OFF
+C) Turn both ON
+D) Leave them as they are
+
+6. What should you do with the fuel valve during rough engine operation or engine failure in flight?
+A) Turn it OFF
+B) Set it to halfway
+C) Leave it as it is
+D) Open it
+
+7. What should you do with the fuel valve during rough engine operation or engine failure in flight?
+A) Turn it OFF
+B) Set it to halfway
+C) Leave it as it is
+D) Open it
+
+8. What should you do if the engine restart is unsuccessful during rough engine operation or engine failure in flight?
+A) Perform aerobatic maneuvers
+B) Increase altitude
+C) Begin with landing out procedure immediately
+D) Turn off the Master switch
+
+Video : 81 - Emergency Landing / Landing Off Airport
+1. What should you do with the fuel valve during an emergency landing or landing off airport?
+A) Turn it ON
+B) Turn it OFF
+C) Leave it as it is
+D) Check for fuel leaks
+
+2. What should you do with the Master switch during an emergency landing or landing off airport?
+A) Turn it ON
+B) Turn it OFF
+C) Leave it as it is
+
+D) Check for electrical faults
+3. How should you approach and land during an emergency landing or landing off airport?
+A) With extreme caution, maintain normal speed
+B) With extreme caution, reduce speed
+C) With extreme caution, increase speed
+D) Without caution, maintain normal speed
+
+4. What should you do immediately after having landed during an emergency landing or landing off airport?
+A) Check the engine
+B) Leave the aircraft immediately
+C) Turn on the Master switch
+D) Check for fuel leaks
+
+Video : 82 - Engine Fire on Ground
+1. What should you do with the fuel valve during an engine fire on the ground?
+A) Turn it ON
+B) Turn it OFF
+C) Leave it as it is
+D) Check for fuel leaks
+
+2. What should you do after shutting the fuel valve during an engine fire on the ground?
+A) Continue flying
+B) Come to a full stop, engage starter, and set throttle to full power
+C) Turn off the Master switch
+D) Attempt to restart the engine
+
+3. What should you do with the battery during an engine fire on the ground?
+A) Leave it connected
+B) Disconnect it from the circuit by pulling the battery disconnection ring on the switch column
+C) Check for battery faults
+D) Turn it ON
+
+4. When should you turn off the Master switch during an engine fire on the ground?
+A) Immediately after the engine has stopped
+B) Before the engine has stopped
+C) After abandoning the aircraft
+D) Before shutting the fuel valve
+
+5. What should you do after turning off the Master switch during an engine fire on the ground?
+A) Attempt to restart the engine
+B) Check for fuel leaks
+C) Abandon the aircraft and start the fire extinguisher
+D) Turn the Master switch back ON
+
+Video : 83 -  Engine Fire in Flight
+1. What should you do with the fuel valve during an engine fire in flight?
+A) Turn it ON
+B) Turn it OFF
+C) Leave it as it is
+D) Check for fuel leaks
+
+2. What should you do with the magnetos during an engine fire in flight?
+A) Set both to ON
+B) Set both to OFF
+C) Set one to ON and one to OFF
+D) Leave them as they are
+
+3. What should you do with the throttle lever during an engine fire in flight?
+A) Set it to idle
+B) Set it to half power
+C) Set it to full power (Throttle lever fully forward)
+D) Leave it as it is
+
+4. What should you do with the avionics and Master switch during an engine fire in flight?
+A) Keep both OFF
+B) Keep both ON
+C) Keep avionics ON and Master ON as required, on approach set both OFF
+D) Turn off the avionics and Master switch immediately
+
+5. What maneuver should you perform during an engine fire in flight?
+A) Perform a loop
+B) Perform a barrel roll
+C) Perform side slip / crab maneuver in direction opposite of fire
+D) Perform a steep dive
+
+6. What should you do after performing the side slip / crab maneuver during an engine fire in flight?
+A) Attempt to restart the engine
+B) Perform emergency landing out procedures
+C) Turn off the Master switch
+D) Increase altitude
+
+Video : 84 - Smoke in Cockpit
+1. What should you do with the avionics during smoke in the cockpit?
+A) Turn them ON
+B) Turn them OFF
+C) Leave them as they are
+D) Check for faults
+
+2. What should you do with the battery during smoke in the cockpit?
+A) Leave it connected
+B) Disconnect it from the circuit
+C) Check for battery faults
+D) Turn it ON
+
+3. What should you do after disconnecting the battery during smoke in the cockpit?
+A) Attempt to restart the engine
+B) Check for fuel leaks
+C) Land as soon as possible
+D) Turn the Master switch back ON
+
+Video : 85 - Carburetor Icing
+1. What are the indications of carburetor icing?
+A) Smooth engine noises and gradual increase in power
+B) Rough engine noises and gradual loss of power
+C) Sudden engine failure
+D) Increase in fuel consumption
+
+2. At what temperature can carburetor icing occur, provided the air is highly humid?
+A) As high as +5° C
+B) As high as +10° C
+C) As high as +15° C
+D) As high as +20° C
+
+3. What should you do immediately if you suspect carburetor icing?
+A) Ascend to higher altitude
+B) Descend immediately to warmer and/or less humid air
+C) Maintain current altitude
+D) Increase throttle to full power
+
+4. What should you do in case of complete loss of power due to carburetor icing?
+A) Attempt to restart the engine
+B) Perform emergency landing out procedure
+C) Turn off the Master switch
+D) Close the fuel valve
+
+Video : 86 - Electrical System Failure
+1. What will happen to the engine in case of an electrical system failure?
+A) The engine will stop functioning
+B) The engine will continue to function due to onboard alternator and battery
+C) The engine will restart automatically
+D) The engine will function intermittently
+
+2. What will happen in case of a battery failure during an electrical system failure?
+A) The engine will stop functioning
+B) The engine will continue to function, but restart will not be possible
+C) The engine will restart automatically
+D) The engine will function intermittently
+
+3. What will happen in case of an alternator failure during an electrical system failure?
+A) The engine will stop functioning
+B) The battery will support all onboard avionics
+C) The engine will restart automatically
+D) The engine will function intermittently
+
+4. What should you do in the event of a double power failure (both alternator and battery fail)?
+A) Attempt to restart the engine
+B) Use GPS Instruments Page instruments and land normally
+C) Turn off the Master switch
+D) Close the fuel valve
+
+Video : 87 - Flutter
+1. How is flutter defined in the context of engine failure?
+A) Sudden loss of engine power
+B) Oscillation of control surfaces
+C) Increase in airspeed
+D) Decrease in altitude
+
+2. What causes flutter in an aircraft?
+A) Smooth control deflections at low speeds
+B) Abrupt control deflections at speeds close to or in excess of VNE
+C) Gradual increase in altitude
+D) Decrease in airspeed
+
+3. What are the indications of flutter in an aircraft?
+A) Smooth engine noises
+B) Ailerons, elevators, or even the whole aircraft starts to vibrate violently
+C) Increase in fuel consumption
+D) Decrease in engine RPM
+
+4. What should you do to reduce speed during flutter?
+A) Increase throttle
+B) Decrease angle of attack
+C) Increase angle of attack (pull stick back) and reduce throttle immediately
+D) Maintain current speed
+
+5. What should you do to increase load (damping) on the structure during flutter?
+A) Decrease angle of attack
+B) Increase throttle
+C) Increase load (damping) on structure
+D) Maintain current load
+
+Video : 88 - Exceeding VNE (Velocity Never Exceed)
+1. What should you do to reduce airspeed when exceeding VNE?
+A) Increase throttle
+B) Reduce airspeed slowly
+C) Maintain current speed
+D) Decrease angle of attack
+
+2. How should you continue flying after reducing airspeed when exceeding VNE?
+A) Using abrupt control deflections
+B) Using gentle control deflections
+C) Using no control deflections
+D) Using maximum control deflections
+
+3. What should you do after reducing airspeed and continuing to fly gently when exceeding VNE?
+A) Increase altitude
+B) Land safely as soon as possible
+C) Perform aerobatic maneuvers
+D) Turn off the engine
+
+4. What should you do after landing safely when exceeding VNE?
+A) Restart the engine
+B) Have aircraft verified for air worthiness
+C) Increase throttle
+D) Perform a pre-flight check
+
+Video : 89 - Ditching
+1. What should you do if forced to land on a water body?
+A) Use a different emergency procedure
+B) Use the same emergency procedure as for emergency landing/landing out
+C) Increase airspeed
+D) Turn off the engine
+
+2. What should you do with the doors before hitting the water during ditching?
+A) Keep them closed
+B) Open both doors fully
+C) Open one door
+D) Leave them as they are
+
+3. What should you do with the battery during ditching?
+A) Leave it connected
+B) Disconnect it by pulling the battery disconnection ring
+C) Check for battery faults
+D) Turn it ON
+
+4. How should you touch the water during ditching?
+A) With the highest possible speed
+B) With the slowest possible speed, possibly from a high flare situation
+C) With moderate speed
+D) With full throttle
+
+Video :  99 - Icing / Pneumatic Instrument Failure
+1. What should you do if you encounter icing conditions during flight?
+A) Continue flying at the same altitude
+B) Turn back or change altitude to exit icing conditions
+C) Increase airspeed
+D) Decrease airspeed
+
+2. What type of flight should you maintain during icing/pneumatic instrument failure?
+A) IFR flight
+B) VFR flight
+C) Night flight
+D) Instrument flight
+
+3. What should you do with the cabin heating during icing/pneumatic instrument failure?
+A) Turn it OFF
+B) Set it to low
+C) Set it to medium
+D) Set it ON
+
+4. What should you look out for during icing/pneumatic instrument failure?
+A) Signs of icing on Pitot tube
+B) Signs of fuel leaks
+C) Signs of engine overheating
+D) Signs of electrical failure
+
+5. What should you use for reference in case of pneumatic instruments failure?
+A) Altimeter
+B) Airspeed Indicator
+C) GPS information
+D) Compass
+
+6. What should you plan to do after encountering icing/pneumatic instrument failure?
+A) Continue flying to the destination
+B) Plan to land at the nearest airport
+C) Increase altitude
+D) Decrease altitude
+
+7. How should you maneuver the aircraft during icing/pneumatic instrument failure?
+A) Perform abrupt maneuvers
+B) Maneuver the aircraft gently and keep flaps at Flaps ‘0’ position
+C) Perform aerobatic maneuvers
+D) Increase airspeed
+
+Video : 100 - Electric Fuel Pump Failure
+1. What are the indications of an electric fuel pump failure?
+A) Increase in engine power
+B) Either through engine switching off or zero fuel pressure indication
+C) Increase in fuel pressure
+D) Smooth engine operation
+
+2. What will be indicated in case of partial fuel pump failure?
+A) High fuel pressure
+B) Low fuel pressure
+C) Normal fuel pressure
+D) No change in fuel pressure
+
+3. What should you attempt to do to increase fuel pressure during an electric fuel pump failure?
+A) Increase power
+B) Maintain current power
+C) Reduce power
+D) Turn off the engine
+
+Video : 101 - 106 Additional Points for Safety
+
+The End …
+ 
+
