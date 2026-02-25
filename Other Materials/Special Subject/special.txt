@@ -1,0 +1,111 @@
+1. Which instrument indicates the aircraft’s speed through air?
+a) Altimeter
+b) VSI
+c) Airspeed Indicator
+d) Compass
+2. The altimeter works on the principle of
+a) Temperature change
+b) Air density
+c) Atmospheric pressure
+d) Airspeed
+3. Which instrument shows the rate of climb or descent?
+a) Altimeter
+b) Vertical Speed Indicator
+c) Turn Indicator
+d) Tachometer
+4. The gyroscopic instrument used to indicate aircraft attitude is
+a) Altimeter
+b) Compass
+c) Artificial Horizon
+d) ASl
+5. Pitot tube measures
+a) Static pressure
+b) Dynamic pressure
+c) Temperature
+d) Density
+6. RADAR stands for
+a) Radio Detection and Range
+b) Radio Detection and Ranging
+c) Radio Direction and Ranging
+d) Radio Distance and Range
+7. Radar works on the principle of
+a) Refraction
+b) Reflection of radio waves
+c) Diffraction
+d) Absorption
+8. Primary radar does not require
+a) Antenna
+b) Transmitter
+c) Receiver
+d) Aircraft transponder
+
+9. Height above mean sea level is called
+a) Absolute altitude
+b) True altitude
+c) Pressure altitude
+d) Density altitude
+10. Altitude measured above ground level is known as
+a) True altitude
+b) Pressure altitude
+c) Density altitude
+d) Absolute altitude
+11. The lowest layer of the atmosphere is
+a) Stratosphere
+b) Mesosphere
+c) Troposphere
+d) Ionosphere
+12. Most weather phenomena occur in the
+a) Stratosphere
+b) Troposphere
+c) Mesosphere
+d) Thermosphere
+13. Lift is produced mainly due to
+a) Weight
+b) Thrust
+c) Drag
+d) Pressure difference over wings
+14. Newton’s Third Law is related to
+a) Lift
+b) Thrust
+c) Drag
+d) Weight
+15. Bernoulli’s principle states that increase in velocity results in
+a) Increase in pressure
+b) No change in pressure
+c) Decrease in pressure
+d) Increase in temperature
+
+II. True or False Questions
+1. Altimeter indicates height above ground level.
+False
+2. VSI indicates vertical speed of aircraft.
+True
+3. Radar uses sound waves to detect objects.
+False
+4. Density altitude increases with increase in temperature.
+True
+5. Troposphere is the highest layer of atmosphere.
+False
+6. Lift always acts vertically upward.
+True
+7. Drag opposes the motion of aircraft.
+True
+8. Pitot-static system is used to measure airspeed and altitude.
+True
+9. Thrust is produced by engines or propellers.
+True
+10. Artificial horizon is a pressure instrument.
+False
+
+III. Fill in the Blanks
+
+1. ASI stands for Airspeed Indicator.
+2. The instrument that shows aircraft height is called Altimeter.
+3. VSI stands for Vertical Speed Indicator.
+4. Radar operates using radio waves.
+5. The lowest atmospheric layer is the Troposphere.
+6. The force that opposes aircraft motion is called Drag.
+7. Lift acts perpendicular to the relative airflow.
+8. Height above ground level is known as Absolute altitude.
+9. Pressure, temperature, and density decrease with altitude in the Troposphere.
+10. Bernoulli’s principle explains the generation of Lift.
