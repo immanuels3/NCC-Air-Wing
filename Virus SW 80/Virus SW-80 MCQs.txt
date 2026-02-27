@@ -122,11 +122,11 @@ b) It powers the aircraft with a 4-cylinder horizontally opposed 4-stroke engine
 c) It controls the flight control surfaces
 d) It manages the aircraft's fuel system
 
-21. What is the role of the ROTAX 912 A engine in the Virus SW 80 aircraft?
-a) It provides electrical power to the avionics
-b) It powers the aircraft with a 4-cylinder horizontally opposed 4-stroke engine
-c) It controls the flight control surfaces
-d) It manages the aircraft's fuel system
+21. The fuel tank of the Virus SW-80 is located in
+a) Inside the wings
+b) Inside the fuselage
+c) Inside the tail section
+d) Under the cockpit floor
 
 22. How is the Virus SW 80 aircraft's undercarriage designed to handle rough terrain?
 a) By using a tailwheel configuration
@@ -170,11 +170,11 @@ b) Carbon foam
 c) Kevlar
 d) Titanium
 
-4. Which of the following materials is NOT used in the composite parts of the Virus SW-80 aircraft?
-a) Glass
-b) Carbon foam
-c) Kevlar
-d) Titanium
+4. The fuel filler (refueling) aperture is located:
+a) On the right wing tip
+b) Under the fuselage
+c) On the top left side of the fuselage behind the wing
+d) Inside the cockpit
 
 5. How are the composite parts of the Virus SW-80 aircraft made?
 a) By welding
@@ -797,11 +797,8 @@ Video : 12 - Cooling System
 Question number 1. How is the cooling system designed in the VIRUS SW-80 AC?
 
 A) Liquid cooling of cylinder heads and ram air cooling of cylinders.
-
 B) Air cooling of cylinder heads and liquid cooling of cylinders.
-
 C) Only liquid cooling of the entire engine.
-
 D) Only air cooling of the entire engine.
 
 Question number 2. What forces the coolant flow for cooling cylinder heads?
@@ -1134,23 +1131,23 @@ B) Altitude.
 C) Exhaust Gas Temperature (EGT).
 D) Coolant Temperature.
 
-Questions number 3.  Which parameter is NOT displayed on the Right Hand Quadrant Display (Engine Cluster) system of the Virus SW 80?
-A) Manifold Pressure.
-B) Altitude.
-C) Exhaust Gas Temperature (EGT).
-D) Coolant Temperature.
+Questions number 3. In the Rotax 912 UL, ignition timing at low RPM (below ~1000 RPM) is approximately:
+A) 0° BTDC
+B) 4° BTDC
+C) 10° BTDC
+D) 26° BTDC
 
-Questions number 4.  Which of the following engine parameters is displayed on the Right Hand Quadrant Display (Engine Cluster) system?
+Questions number 4. Which of the following engine parameters is displayed on the Right Hand Quadrant Display (Engine Cluster) system?
 A) Airspeed.
 B) Oil Temperature.
 C) Slip & Trim.
 D) Altitude.
 
-Questions number 5. Which of the following engine parameters is displayed on the Right Hand Quadrant Display (Engine Cluster) system?
-A) Airspeed.
-B) Oil Temperature.
-C) Slip & Trim.
-D) Altitude.
+Questions number 5. The dry weight of the Rotax 912 A engine is approximately:
+A) 45.1 kg
+B) 52.1 kg
+C) 57.1 kg
+D) 63.1 kg
 
 Questions number 6. Which parameter is monitored by the Right Hand Quadrant Display (Engine Cluster) system on the Virus SW 80?
 A) Fuel Quantity.
@@ -1182,11 +1179,11 @@ B) Analogue.
 C) Hybrid.
 D) None of the above.
 
-Question number 11. What type of gauges are used for RPM indication on the Virus SW 80?
-A) Digital.
-B) Analogue.
-C) Hybrid.
-D) None of the above.
+Question number 11. What is the standard target idling RPM for a Pipistrel Virus SW 80 equipped with a Rotax 912 A engine?
+A) 1400±50 RPM
+B) 1600±25 RPM
+C) 1750±50 RPM
+D) 2000±100 RPM
 
 Video : 19 - Instrument/Communication/Navigation Systems
 Question number 1. Which radio unit is included in the Virus SW 80 Communication System?
